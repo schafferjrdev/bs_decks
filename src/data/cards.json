@@ -1,0 +1,602 @@
+[
+    {
+        "uuid": "bsum_001",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_001.png",
+        "data": "Personagem\nAgente S.H.I.E.L.D. - V1\nN/A\nHerói\n1 / 0\n{AD}\nS.H.I.E.L.D.\nPelotão.\nAção: Ataque Armado\n{1} - Ação Normal - {AD}\nAtaque Armado causa 1 ponto de dano no alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_002",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_002.png",
+        "data": "Personagem\nCapanga do Rei - V1\nN/A\nVilão\n1 / 0\n{AD}\nInimigos do Demolidor\nPelotão.\nEste personagem ganha Escudo +1 para cada card de habilidade de {AD} que ele estiver carregando.\nAção: Fogo Cerrado\n{1} - Ação Normal - {AD}\nFogo Cerrado causa 1 ponto de dano no alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_003",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_003.png",
+        "data": "Personagem\nCapitão América - V1\nSteve Rogers\nHerói\n4 / 0\n{AG},{AD}\nVingadores\nLiderar {1} - afiliação Vingadores.\nAção: Recuperar Escudo\n{0} - Ação de Antecipar - N/A\nProcure em sua mão, deck, recursos ou em cena entre os cards que você controla por um card de habilidade chamado Escudo do Capitão América, revele-o, carregue-o neste personagem e embaralhe o seu deck se tiver procurado ali.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_004",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_004.png",
+        "data": "Personagem\nCiclope - V1\nScott Summers\nHerói\n4 / 0\n{AE}\nX-Men\nOs personagens com a afiliação X-Men que você controla ganham Escudo +1.\nAção: Rajada Ótica\n{1} - Ação Normal - {AE}\nRajada Ótica causa 1 ponto de dano no alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_005",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_005.png",
+        "data": "Personagem\nCoisa - V1\nBenjamin Jacob Grimm\nHerói\n6 / 3\n{SF}\nQuarteto Fantástico\nAção: Tá na Hora do Pau\n{1} - Ação Normal - {SF}\nTá na Hora do Pau causa 3 pontos de dano no alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_006",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_006.png",
+        "data": "Personagem\nColossus - V1\nPiotr Nikolaievitch Rasputin\nHerói\n5 / 3\n{SF}\nX-Men\nAção: Murro Metálico\n{1} - Ação Normal - {SF}\nMurro Metálico causa 3 pontos de dano no alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_007",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_007.png",
+        "data": "Personagem\nDemolidor - V1\nMatthew Michael Murdock\nHerói\n4 / 1\n{AG},{AD}\nAliados do Demolidor\nAção: Radar\n{0} - Ação de Antecipar - N/A\nToda vez que este personagem fosse receber dano da primeira ação que o tenha como alvo neste turno, aquele dano torna-se 0.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_008",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_008.png",
+        "data": "Personagem\nDente-de-Sabre - V1\nVictor Creed\nVilão\n4 / 1\n{AG},{LA},{RE}\nIrmandade de Mutantes\nAção: Dilacerar\n{1} - Ação Normal - {LA}\nDilacerar causa 2 pontos de dano no alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_009",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_009.png",
+        "data": "Personagem\nDr. Destino - V1\nVictor von Doom\nVilão\n6 / 3\n{AE},{GE},{SF},{VO}\nInimigos do Quarteto Fantástico\nAção: Plano Maligno\n{0} - Ação Normal - {GE}\nOlhe os três cards do topo de seu deck, revele e carregue um deles neste personagem, e então descarregue um dos cards deste personagem. Coloque os outros dois cards no topo de seu deck em qualquer ordem.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_010",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_010.png",
+        "data": "Personagem\nDr. Octopus - V1\nOtto Octavius\nVilão\n5 / 1\n{EL},{GE},{SF}\nInimigos do Homem-Aranha\nAção: Espremer\n{X} - Ação Normal - {EL}\nEspremer causa X+1 pontos de dano no alvo. Incapacite o alvo em {1} se X for 2.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_011",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_011.png",
+        "data": "Personagem\nDuende Verde - V1\nNorman Osborn\nVilão\n4 / 1\n{AD},{VO}\nInimigos do Homem-Aranha\nToda vez que este personagem fosse causar dano em um personagem com a afiliação Aliados do Homem-Aranha, ele causará aquela quantidade de dano +1.\nAção: Bomba-Abóbora\n{1} - Ação Normal - {AD}\nEscolha uma opção, (A) Bomba-Abóbora causa 2 pontos de dano no personagem alvo sem {VO}; (B) Bomba-Abóbora causa 1 ponto de dano no alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_012",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_012.png",
+        "data": "Personagem\nElektra - V1\nElektra Natchios\nVilão\n3 / 1\n{AG},{AD},{LA}\nInimigos do Demolidor\nAção: Golpe Ninja\n{2} - Ação de Antecipar - {LA}\nGolpe Ninja causa 1 ponto de dano no alvo. Incapacite o alvo em {1}.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_013",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_013.png",
+        "data": "Personagem\nEmma Frost - V1\nEmma Grace Frost\nHerói\n4 / 1\n{TE}\nX-Men\nAção: Confundir\n{1} - Ação Normal - {TE}\nCarregue o personagem alvo controlado por outro jogador com qualquer número de cards dos recursos de seu dono e então descarregue aquele mesmo número de cards do alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_014",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_014.png",
+        "data": "Personagem\nFanático - V1\nCain Marko\nVilão\n6 / 4\n{SF}\nIrmandade de Mutantes\nEste personagem não pode ser alvo de ações de {TE}.\nAção: Pancada\n{2} - Ação Normal - {SF}\nPancada causa 4 pontos de dano no alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_015",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_015.png",
+        "data": "Personagem\nFênix - V1\nJean Grey-Summers\nHerói\n4 / 1\n{TC},{TE},{VO}\nX-Men\nAção: Arremesso Mental\n{2} - Ação Normal - {TC}\nDescarregue todos os cards do alvo e devolva-o para a mão de seu dono.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_016",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_016.png",
+        "data": "Personagem\nFera - V1\nHenry Philip McCoy\nHerói\n4 / 1\n{AG},{GE}\nX-Men\nAção: Voadora\n{1} - Ação Normal - {AG}\nVoadora causa 2 pontos de dano no alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_017",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_017.png",
+        "data": "Personagem\nGavião Arqueiro - V1\nClinton Francis Barton\nHerói\n3 / 1\n{AD}\nS.H.I.E.L.D./Vingadores\nAção: Flechas Especiais\n{1} - Ação Normal - {AD}\nEscolha uma opção, (A) Flechas Especiais causa 1 ponto de dano penetrante no alvo; (B) Flechas Especiais causa 2 pontos de dano no alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_018",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_018.png",
+        "data": "Personagem\nHomem de Ferro - V1\nAnthony Edward Stark\nHerói\n4 / 2\n{AE},{GE},{SF},{VO}\nVingadores\nAção: Raio Repulsor\n{1} - Ação Normal - {AE}\nRaio Repulsor causa 1 ponto de dano penetrante no alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_019",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_019.png",
+        "data": "Personagem\nHomem-Aranha - V1\nPeter Parker\nHerói\n4 / 1\n{AG},{EL}\nAliados do Homem-Aranha\nAção: Teia do Aranha\n{1} - Ação Normal - {EL}\nO alvo ganha Escudo -1 até o final do turno. Teia do Aranha causa 1 ponto de dano no alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_020",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_020.png",
+        "data": "Personagem\nHulk - V1\nBruce Banner\nHerói\n8 / 3\n{RE},{SF}\nVingadores\nEnquanto este personagem estiver com Energia igual a 1, seu Escudo torna-se 0 e ele perde todos os seus poderes.\nAção: Hulk Esmaga\n{1} - Ação Normal - {SF}\nHulk Esmaga causa 4 pontos de dano no alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_021",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_021.png",
+        "data": "Personagem\nMagneto - V1\nErik Magnus Lehnsherr\nVilão\n6 / 1\n{GE},{TC},{VO}\nIrmandade de Mutantes\nEste personagem não pode ser alvo de ações de {TE}.\nToda vez que um personagem com a afiliação Irmandade de Mutantes que você controla fosse causar dano a um X-Men, ele causará aquela quantidade de dano +1.\nAção: Força Magnética\n{1} - Ação Normal - {TC}\nIncapacite o alvo em {1} ou {2}, ou descarregue os cards do alvo e devolva-o para a mão de seu dono se ele for um personagem com {LA} ou um suporte.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_022",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_022.png",
+        "data": "Personagem\nMercenário - V1\nLester\nVilão\n3 / 1\n{AG},{AD}\nInimigos do Demolidor\nAção: Na Mosca\n{1} - Ação de Antecipar - {AD}\nNa Mosca causa 1 ponto de dano no alvo. Escolha um dos cards de habilidade que o alvo estiver carregando. O alvo não pode usar ações do card escolhido neste turno.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_023",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_023.png",
+        "data": "Personagem\nMística - V1\nRaven Darkholme\nVilão\n3 / 1\n{AG},{AD}\nIrmandade de Mutantes\nAção: Ludibriar\n{2} - Ação Normal - N/A\nDescarregue este personagem e coloque-o nos prêmios de seus oponentes: Coloque um card de personagem dos prêmios de seus oponentes em sua mão.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_024",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_024.png",
+        "data": "Personagem\nMulher Invisível - V1\nSusan Storm Richards\nHerói\n3 / *\n{TC},{VO}\nQuarteto Fantástico\nO Escudo deste personagem é igual ao número de cards que ele estiver carregando.\nCada um dos outros personagens com a afiliação Quarteto Fantástico que você controla ganha Escudo +1.\nAção: Escudo Invisível\n{0} - Ação de Antecipar - N/A\nO alvo ganha Escudo +1 até o final do turno.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_025",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_025.png",
+        "data": "Personagem\nNick Fury - V1\nNicholas Joseph Fury\nHerói\n3 / 0\n{AD}\nS.H.I.E.L.D.\nQuando este personagem entrar em cena, procure em seu deck ou recursos por até três cards de personagem chamados Agente S.H.I.E.L.D., revele-os, coloque-os em sua mão e embaralhe o seu deck se tiver procurado ali.\nCada um dos personagens e suportes S.H.I.E.L.D. que você controla ganha Escudo +1.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_026",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_026.png",
+        "data": "Personagem\nProfessor X - V1\nCharles Francis Xavier\nHerói\n3 / 0\n{GE},{TE}\nX-Men\nDurante sua Fase de Preparação, uma vez por turno, você pode colocar um card de seus recursos na base de seu deck. Se o fizer, coloque o card do topo de seu deck em seus recursos.\nAção: Controlar a Mente\n{1} - Ação Normal - {TE}\nIncapacite o alvo em {1}. O alvo ganha Escudo -1 até o final do turno.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_027",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_027.png",
+        "data": "Personagem\nRei do Crime - V1\nWilson Fisk\nVilão\n4 / 0\n{AD},{GE}\nInimigos do Demolidor\nQuando este personagem entrar em cena, procure em seu deck ou recursos por até três cards de personagem chamados Capanga do Rei, revele-os, coloque-os em sua mão e embaralhe o seu deck se tiver procurado ali.\nEnquanto você controlar um personagem chamado Capanga do Rei, este personagem não pode ser alvo de ações.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_028",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_028.png",
+        "data": "Personagem\nSr. Fantástico - V1\nReed Richards\nHerói\n3 / 1\n{EL},{GE}\nQuarteto Fantástico\nLiderar {1} - afiliação Quarteto Fantástico.\nAção: Esticar\n{1} - Ação Normal - {EL}\nCarregue o alvo com um card dos recursos de seu dono. Se o fizer, descarregue um card do alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_029",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_029.png",
+        "data": "Personagem\nSurfista Prateado - V1\nNorrin Radd\nHerói\n5 / 1\n{AE},{VO}\nQuarteto Fantástico\nAção: Arremeter\n{1} - Ação Normal - {VO}\nArremeter causa 2 pontos de dano no alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_030",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_030.png",
+        "data": "Personagem\nTempestade - V1\nOroro Munroe\nHerói\n3 / 1\n{AE},{VO}\nX-Men\nAção: Choque Elétrico\n{2} - Ação Normal - {AE}\nChoque Elétrico causa 1 ponto de dano penetrante no alvo. Incapacite o alvo em {1}.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_031",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_031.png",
+        "data": "Personagem\nThor - V1\nThor Odinson\nHerói\n6 / 2\n{SF}\nVingadores\nAção: Recuperar Martelo\n{0} - Ação de Antecipar - N/A\nProcure em sua mão, deck, recursos ou em cena entre os cards que você controla por um card de habilidade chamado Mjölnir, revele-o, carregue-o neste personagem e embaralhe o seu deck se tiver procurado ali.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_032",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_032.png",
+        "data": "Personagem\nTocha Humana - V1\nJonathan Lowell Spencer Storm\nHerói\n4 / 1\n{AE},{VO}\nQuarteto Fantástico\nAção: Supernova\n{2} - Ação Normal - {AE}\nDescarregue um card deste personagem: Supernova causa 3 pontos de dano a cada um dos outros personagens e suportes que não tenham a afiliação Quarteto Fantástico.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_033",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_033.png",
+        "data": "Personagem\nVampira - V1\nAnna Marie Raven\nHerói\n5 / 0\nX-Men\nEste personagem ganha os poderes dos outros personagens que você controla.\nEste personagem ganha Escudo +1 para cada um dos outros personagens que você controla.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_034",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_034.png",
+        "data": "Personagem\nVenom - V1\nEddie Brock\nVilão\n5 / 1\n{AG},{EL}\nInimigos do Homem-Aranha\nAção: Tiro de Teia\n{X} - Ação Normal - {EL}\nTiro de Teia causa 2 pontos de dano a cada um de X alvos. Incapacite em {1} X-1 destes alvos.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_035",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_035.png",
+        "data": "Personagem\nViúva Negra - V1\nNatalia Alianovna Romanova\nHerói\n3 / 1\n{AG},{AD}\nS.H.I.E.L.D./Vingadores\nAção: Ataque-Surpresa\n{2} - Ação de Antecipar - {AD}\nAtaque-Surpresa causa 1 ponto de dano penetrante no alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_036",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_036.png",
+        "data": "Personagem\nWolverine - V1\nJames Howlett\nHerói\n4 / 1\n{AG},{LA},{RE}\nX-Men\nAção: Garras\nX - Ação de Antecipar - {LA}\nGarras causa X pontos de dano penetrante no alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_037",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_037.png",
+        "data": "Suporte\nEsconderijo Secreto - V1\n4 / 2\nQuando este suporte entrar em cena, escolha um personagem vilão que você controla.\nO personagem escolhido não pode ser alvo de ações.\nQuando o personagem escolhido sair de cena, descarregue os cards deste suporte e coloque-o em seus recursos.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_038",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_038.png",
+        "data": "Suporte\nFantasticarro - V1\n3 / 1\nCada personagem com a afiliação Quarteto Fantástico que você controla ganha {VO} e Escudo +1.\nQuando este suporte entrar em cena, você pode procurar em seu deck por um card de personagem com a afiliação Quarteto Fantástico. Se o fizer, revele aquele card, coloque-o em sua mão e embaralhe o seu deck.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_039",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_039.png",
+        "data": "Suporte\nMansão dos Vingadores - V1\n6 / 2\nOs personagens com a afiliação Vingadores que você controla ganham {GE} e Escudo +1.\nLiderar {1} - afiliação Vingadores.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_040",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_040.png",
+        "data": "Suporte\nMáquina Diabólica - V1\n7 / 1\nMáquina Diabólica só pode ser colocada em cena se você controlar um vilão.\nSeus oponentes executam a Fase de Contagem Regressiva como se não tivessem nenhum personagem em cena.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_041",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_041.png",
+        "data": "Suporte\nPássaro Negro - V1\n6 / 2\nCada um dos personagens com a afiliação X-Men que você controla ganha {GE},{VO},{AE} e Escudo +2.\nQuando este suporte for destruído, ele causa 2 pontos de dano a cada um dos personagens com a afiliação X-Men que você controla.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_042",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_042.png",
+        "data": "Suporte\nVeículo de Combate S.H.I.E.L.D. - V1\n3 / 1\nDurante a Etapa de Ataque, na Fase de Combate de seu turno, uma vez por turno, você pode escolher um dos personagens com a afiliação S.H.I.E.L.D. com {AD} que você controla. Se o fizer, aquele personagem pode usar a ação Morteiro até o final do turno.\nFrota.\nCada um dos personagens S.H.I.E.L.D. que você controla ganha Escudo +1.\nAção: Morteiro\n{1} - Ação Normal - {AD}\nMorteiro causa 3 pontos de dano no alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_043",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_043.png",
+        "data": "Cenário\nAvante, Vingadores! - V1\nEnquanto você controlar um personagem chamado Capitão América, cada um dos personagens com a afiliação Vingadores que você controla pode usar ações dos cards de habilidade que estiver carregando, mesmo que não tenha os poderes daquelas ações.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_044",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_044.png",
+        "data": "Cenário\nBatalha em Área Povoada - V1\nQuando este cenário entrar em cena, compre um card.\nToda vez que um herói fosse causar dano, ele causará aquela quantidade de dano -1.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_045",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_045.png",
+        "data": "Cenário\nCombate ao Crime - V1\nQuando este cenário entrar em cena, compre um card.\nToda vez que um herói fosse causar dano a um vilão, ele causará aquela quantidade de dano +1.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_046",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_046.png",
+        "data": "Cenário\nConvocar Reforços - V1\nQuando você estiver sem nenhum card em sua mão, coloque este cenário nos recursos de seu dono e você pode procurar em seu deck por até dois cards de personagens. Se o fizer, revele aqueles cards, coloque-os em sua mão e embaralhe o seu deck.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_047",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_047.png",
+        "data": "Cenário\nFogo Cruzado - V1\nQuando este cenário entrar em cena, compre um card.\nOs personagens com {AD} não podem ser alvos de ações de antecipar.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_048",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_048.png",
+        "data": "Cenário\nOnda de Assaltos - V1\nSe você controlar dois ou mais personagens vilões, compre um card extra durante sua Fase de Compra.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_049",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_049.png",
+        "data": "Cenário\nOnda de Pânico - V1\nQuando este cenário entrar em cena, compre um card.\nCada jogador coloca um card a mais do próprio deck nos próprios recursos durante a Fase de Contagem Regressiva do turno daquele jogador.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_050",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_050.png",
+        "data": "Cenário\nRetirada Estratégica - V1\nQuando este cenário entrar em cena, descarregue um personagem ou suporte que você controla e devolva-o para sua mão.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_051",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_051.png",
+        "data": "Cenário\nReunião de Intelectos - V1\nQuando este cenário entrar em cena, compre um card.\nQuando este cenário for substituído por um outro cenário, cada jogador compra um card para cada personagem com {GE} que ele controla.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_052",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_052.png",
+        "data": "Cenário\nSem Trégua - V1\nQuando este cenário entrar em cena, escolha um personagem herói ou vilão que você controla e um personagem herói ou vilão controlado por outro jogador.\nOs personagens escolhidos não podem ser alvo de ações de personagens que não sejam os escolhidos.\nSe um dos personagens escolhidos sair de cena, coloque este cenário nos recursos de seu dono.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_053",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_053.png",
+        "data": "Cenário\nSucessão de Eventos - V1\nQuando este cenário entrar em cena, compre um card.\nCada jogador compra um card extra durante sua respectiva Fase de Compra.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_054",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_054.png",
+        "data": "Cenário\nSuper Plano de Dominação - V1\nQuando este cenário entrar em cena, compre um card.\nCada vilão ganha {GE} e Escudo +1.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_055",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_055.png",
+        "data": "Cenário\nTreinamento Mental - V1\nLiderar {1} - poder {TE}.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_056",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_056.png",
+        "data": "Cenário\nTreino na Sala de Perigo - V1\nDurante sua Fase de Preparação, uma vez por turno, você pode escolher um card que um personagem ou suporte com a afiliação X-Men que você controla estiver carregando e permutá-lo por outro card que outro personagem ou suporte com a afiliação X-Men que você controla estiver carregando.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_057",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_057.png",
+        "data": "Habilidade - {AG}\nEsquiva - V1\nAção: Esquiva\n{1} - Ação de Antecipar - {AG}\nEste personagem ganha Escudo +3 até o final do turno.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_058",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_058.png",
+        "data": "Habilidade - {AG}\nGolpe Desnorteante - V1\nAção: Golpe Desnorteante\n{1} - Ação Normal - {AG}\nGolpe Desnorteante causa 1 ponto de dano no alvo. Descarregue um card do alvo. Se o alvo ainda estiver em cena, carregue no alvo um card dos recursos de seu dono.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_059",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_059.png",
+        "data": "Habilidade - {AG}\nPorrete - V1\nEste personagem ganha {AG}.\nAção: Porrete\n{1} - Ação Normal - {AG}\nSe este personagem (o personagem que usou esta ação) for um vilão, Porrete causa 2 pontos de dano no alvo. Se não, Porrete causa 1 ponto de dano no alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_060",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_060.png",
+        "data": "Habilidade - {AG}\nSaltitar - V1\nAção: Saltitar\n{1} - Ação Normal - {AG}\nSaltitar causa 1 ponto de dano a cada um de dois personagens alvo diferentes.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_061",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_061.png",
+        "data": "Habilidade - {AD}\nEscudo do Capitão América - V1\nItem Único.\nEste personagem ganha Escudo +1 ou ganha Escudo +2, caso se chame Capitão América.\nOs personagens que não sejam chamados Capitão América não podem usar a ação Arremesso de Escudo.\nAção: Arremesso de Escudo\n{X} - Ação Normal - {AD}\nDescarregue Escudo do Capitão América: Escudo do Capitão América causa 2 pontos de dano a cada um de até X alvos.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_062",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_062.png",
+        "data": "Habilidade - {AD}\nFranco-Atirador - V1\nAção: Franco-Atirador\n{1} - Ação Normal - {AD}\nFranco-Atirador causa 1 ponto de dano penetrante no alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_063",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_063.png",
+        "data": "Habilidade - {AD}\nGranada de Mão - V1\nEste personagem ganha {AD}.\nAção: Granada de Mão\n{2} - Ação Normal - {AD}\nDescarregue Granada de Mão: Granada de Mão causa 4 pontos de dano no alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_064",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_064.png",
+        "data": "Habilidade - {AD}\nJogar Objeto - V1\nEste personagem ganha {AD}.\nAção: Jogar Objeto\n{1} - Ação Normal - {AD}\nJogar Objeto causa 1 ponto de dano no alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_065",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_065.png",
+        "data": "Habilidade - {AD}\nMjölnir - V1\nItem Único.\nSe este card estiver sendo carregado por um suporte ou por um personagem que não seja chamado Thor, descarregue-o.\nEste personagem ganha Escudo +1, {AE} e {VO} e {AD}.\nOs personagens que não sejam chamados Thor não podem usar a ação Arremesso de Martelo.\nAção: Arremesso de Martelo\n{1} - Ação Normal - {AD}\nDescarregue Mjölnir: Mjölnir causa 4 pontos de dano no alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_066",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_066.png",
+        "data": "Habilidade - {AD}\nTiro Certeiro - V1\nAção: Tiro Certeiro\n{1} - Ação Normal - {AD}\nTiro Certeiro causa 2 pontos de dano no alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_067",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_067.png",
+        "data": "Habilidade - {AE}\nDisparo Sequencial - V1\nAção: Disparo Sequencial\n{2} - Ação Normal - {AE}\nDisparo Sequencial causa 1 ponto de dano a cada um de até três alvos diferentes.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_068",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_068.png",
+        "data": "Habilidade - {AE}\nOnda de Energia - V1\nAção: Onda de Energia\n{2} - Ação Normal - {AE}\nDescarregue Onda de Energia: Onda de Energia causa 2 pontos de dano penetrante a cada um dos outros personagens.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_069",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_069.png",
+        "data": "Habilidade - {AE}\nRaio de Força - V1\nAção: Raio de Força\n{2} - Ação Normal - {AE}\nRaio de Força causa 3 pontos de dano penetrante no alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_070",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_070.png",
+        "data": "Habilidade - {AE}\nRajada - V1\nAção: Rajada\n{1} - Ação Normal - {AE}\nRajada causa 2 pontos de dano no alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_071",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_071.png",
+        "data": "Habilidade - {EL}\nArrancar das Mãos - V1\nAção: Arrancar das Mãos\n{1} - Ação Normal - {EL}\nO oponente alvo coloca um card da própria mão no topo do próprio deck.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_072",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_072.png",
+        "data": "Habilidade - {EL}\nAtrasar - V1\nAção: Atrasar\n{1} - Ação de Antecipar - {EL}\nCarregue um card de seus recursos neste personagem. Descarregue Atrasar: Incapacite em {1} até dois personagens alvo diferentes.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_073",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_073.png",
+        "data": "Habilidade - {EL}\nCegar - V1\nAção: Cegar\n{1} - Ação Normal - {EL}\nO alvo ganha Escudo -1 até o final do turno. Incapacite o alvo em {1}.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_074",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_074.png",
+        "data": "Habilidade - {EL}\nCela Elástica - V1\nAção: Cela Elástica\n{2} - Ação Normal - {EL}\nDescarregue os cards que este personagem (o personagem que usou esta ação) e o personagem alvo de Cela Elástica estiverem carregando e embaralhe ambos os personagens nos decks de seus donos.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_075",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_075.png",
+        "data": "Habilidade - {GE}\nChantagem - V1\nQuando este card for carregado de seus recursos em um personagem vilão com {GE} que você controla, escolha um personagem herói controlado por outro jogador.\nEnquanto este card e o personagem escolhido estiverem em cena, o personagem que estiver carregando este card não pode ser alvo de ações do personagem escolhido.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_076",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_076.png",
+        "data": "Habilidade - {GE}\nInvenção - V1\nAção: Invenção\n{1} - Ação Normal - {GE}\nCompre três cards.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_077",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_077.png",
+        "data": "Habilidade - {GE}\nPensar Rápido - V1\nUm jogador não pode usar mais de uma ação chamada Pensar Rápido por turno.\nAção: Pensar Rápido\n{0} - Ação de Antecipar - {GE}\nCompre um card.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_078",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_078.png",
+        "data": "Habilidade - {GE}\nRede de Espionagem - V1\nAção: Rede de Espionagem\n{0} - Ação Normal - {GE}\nOlhe os cinco cards do topo de um deck e então recoloque aqueles cards de volta no topo daquele deck em qualquer ordem.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_079",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_079.png",
+        "data": "Habilidade - {LA}\nContra-Ataque Afiado - V1\nToda vez que este personagem receber dano de uma ação que tenha ele como alvo, se este personagem tiver {LA}, ele causa 1 ponto de dano penetrante no personagem que usou aquela ação.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_080",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_080.png",
+        "data": "Habilidade - {LA}\nRasgar - V1\nAção: Rasgar\n{1} - Ação de Antecipar - {LA}\nRasgar causa 1 ponto de dano penetrante no alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_081",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_081.png",
+        "data": "Habilidade - {LA}\nSabre - V1\nEste personagem ganha {LA}.\nAção: Sabre\n{1} - Ação Normal - {LA}\nSabre causa 1 ponto de dano no alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_082",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_082.png",
+        "data": "Habilidade - {LA}\nSucatear - V1\nAção: Sucatear\n{1} - Ação Normal - {LA}\nSucatear causa 3 pontos de dano penetrante no suporte alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_083",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_083.png",
+        "data": "Habilidade - {RE}\nCicatrizar - V1\nEnquanto este card estiver em seus recursos, os personagens com {RE} que você controla podem usar a ação Cicatrizar.\nAção: Cicatrizar\n{0} - Ação de Antecipar - {RE}\nEscolha um card de habilidade chamado Cicatrizar de seus recursos e carregue-o neste personagem.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_084",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_084.png",
+        "data": "Habilidade - {RE}\nCura Rápida - V1\nAção: Cura Rápida\n{0} - Ação Normal - {RE}\nDescarregue Cura Rápida: Carregue até três cards que não sejam chamados Cura Rápida de seus recursos neste personagem.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_085",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_085.png",
+        "data": "Habilidade - {SF}\nArremesso Especial - V1\nAção: Arremesso Especial\n{1} - Ação Normal - {SF}\nEscolha um outro personagem herói ou vilão que você controla. Aquele personagem causará +3 pontos de dano em um único de seus alvos ao usar uma ação que cause dano durante este turno.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_086",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_086.png",
+        "data": "Habilidade - {SF}\nOnda de Choque - V1\nAção: Onda de Choque\n{1} - Ação Normal - {SF}\nDescarregue Onda de Choque: Onda de Choque causa 3 pontos de dano a cada outro personagem e a cada suporte.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_087",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_087.png",
+        "data": "Habilidade - {SF}\nRocha - V1\nAção: Rocha\n{2} - Ação Normal - {SF}\nDescarregue Rocha: Rocha causa 7 pontos de dano no alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_088",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_088.png",
+        "data": "Habilidade - {SF}\nSuper Soco - V1\nAção: Super Soco\n{2} - Ação Normal - {SF}\nSuper Soco causa 4 pontos de dano no alvo.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_089",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_089.png",
+        "data": "Habilidade - {TC}\nDesatomizar - V1\nAção: Desatomizar\n{2} - Ação Normal - {TC}\nA próxima Fase de Contagem Regressiva do oponente alvo é executada como se aquele jogador não tivesse nenhum personagem em cena.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_090",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_090.png",
+        "data": "Habilidade - {TC}\nDespedaçar a Realidade - V1\nAção: Despedaçar a Realidade\n{2} - Ação Normal - {TC}\nDescarregue Despedaçar a Realidade: Jogue um turno extra após este turno. O personagem que tiver usado a ação Despedaçar a Realidade não pode ser capacitado em sua próxima Fase de Preparação.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_091",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_091.png",
+        "data": "Habilidade - {TC}\nPoltergeist - V1\nAção: Poltergeist\n{1} - Ação Normal - {TC}\nColoque os cinco cards do topo do deck do jogador alvo nos recursos daquele jogador.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_092",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_092.png",
+        "data": "Habilidade - {TE}\nAlucinação - V1\nAção: Alucinação\n{1} - Ação Normal - {TE}\nO Escudo do alvo torna-se 0 até o final do turno.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_093",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_093.png",
+        "data": "Habilidade - {TE}\nOnda de Tranquilidade - V1\nAção: Onda de Tranquilidade\n{0} - Ação Normal - {TE}\nSe houver um cenário em cena, coloque-o nos recursos de seu dono e compre um card.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_094",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_094.png",
+        "data": "Habilidade - {TE}\nParalisar - V1\nAção: Paralisar\n{2} - Ação Normal - {TE}\nIncapacite em {1} cada um dos personagens que o oponente alvo controla.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_095",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_095.png",
+        "data": "Habilidade - {VO}\nCarregar para Longe - V1\nAção: Carregar para Longe\n{2} - Ação Normal - {VO}\nEmbaralhe o alvo, este personagem (o personagem que usou esta ação) e os cards que ambos estiverem carregando nos decks de seus donos.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_096",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_096.png",
+        "data": "Habilidade - {VO}\nCircundar - V1\nAção: Circundar\n{1} - Ação de Antecipar - {VO}\nIncapacite o alvo em {1}.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_097",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_097.png",
+        "data": "Habilidade - {VO}\nFlutuar - V1\nAção: Flutuar\n{0} - Ação de Antecipar - {VO}\nAté o final do turno, toda vez que o alvo desta ação fosse causar dano neste personagem (o personagem que usou esta ação), ele causará aquela quantidade de dano -1.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_098",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_098.png",
+        "data": "Habilidade - N/A\nBuscar Refúgio - V1\nAção: Buscar Refúgio\n{1} - Ação de Antecipar - N/A\nCarregue um card neste personagem, descarregue Buscar Refúgio: Este personagem ganha Escudo +3 até o final do turno.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_099",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_099.png",
+        "data": "Habilidade - N/A\nProcurar Indícios - V1\nAção: Procurar Indícios\n{1} - Ação Normal - N/A\nCarregue um card neste personagem, descarregue Procurar Indícios: Compre um card.",
+        "collection": "bsum"
+    },
+    {
+        "uuid": "bsum_100",
+        "image": "http://www.magicjebb.com.br/bs_images/001_bsum/BSUM_100.png",
+        "data": "Habilidade - N/A\nProteção - V1\nEste personagem ganha Escudo +1.\n\n",
+        "collection": "bsum"
+    }
+]
