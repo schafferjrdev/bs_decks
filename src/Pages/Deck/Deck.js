@@ -43,6 +43,7 @@ const Deck = () => {
   const handleRemoveClick = (uuid) => {
     const new_array = [...deck]
     const index = new_array.findIndex((el) => el.uuid === uuid)
+    console.log('Removing')
     if (index > -1) {
       new_array.splice(index, 1)
       setDeck(new_array)
