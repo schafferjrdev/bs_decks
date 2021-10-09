@@ -8,6 +8,11 @@ module.exports = {
       ...theme('colors'),
       darker: '#222236',
     }),
+
+    textColor: (theme) => ({
+      ...theme('colors'),
+      darker: '#222236',
+    }),
   },
   variants: {
     extend: {},
