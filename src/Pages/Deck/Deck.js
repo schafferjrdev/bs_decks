@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import { IconSearch } from 'Icons'
-import { Input, Card } from 'Components'
+import { Card, Header } from 'Components'
 import data_cards from 'data/cards.json'
 
 const Deck = () => {
@@ -10,8 +9,10 @@ const Deck = () => {
   const [finalDeck, setFinalDeck] = useState([])
 
   const handleSearch = (e) => {
-    setSearch(e.target.value)
-    const reg = new RegExp(e.target.value, 'ig')
+    const text = e.target.value
+    setSearch(text)
+    const pattern = text.replace(/[.*+?^${}()|[\]\\]/, '\\$&')
+    const reg = new RegExp(pattern, 'ig')
     const filtered = data_cards.filter((card) => {
       return reg.test(card.data)
     })
@@ -43,7 +44,6 @@ const Deck = () => {
   const handleRemoveClick = (uuid) => {
     const new_array = [...deck]
     const index = new_array.findIndex((el) => el.uuid === uuid)
-    console.log('Removing')
     if (index > -1) {
       new_array.splice(index, 1)
       setDeck(new_array)
@@ -52,12 +52,7 @@ const Deck = () => {
 
   return (
     <div className="flex flex-col min-h-full sticky top-0 overflow-x-hidden">
-      <header className="h-20 z-50 p-4 min-w-full shadow-lg bg-darker">
-        <div className="relative">
-          <IconSearch />
-          <Input value={search} onChange={handleSearch} />
-        </div>
-      </header>
+      <Header value={search} onChange={handleSearch} />
 
       <div className="flex">
         <div className="card-container overflow-y-scroll">

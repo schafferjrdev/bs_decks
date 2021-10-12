@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
-import { IconSearch } from 'Icons'
-import { Input, Card } from 'Components'
+import { Header, Card } from 'Components'
 import data_cards from 'data/cards.json'
 
 const Cards = () => {
@@ -8,8 +7,10 @@ const Cards = () => {
   const [cards, setCards] = useState(data_cards)
 
   const handleSearch = (e) => {
-    setSearch(e.target.value)
-    const reg = new RegExp(e.target.value, 'ig')
+    const text = e.target.value
+    setSearch(text)
+    const pattern = text.replace(/[.*+?^${}()|[\]\\]/, '\\$&')
+    const reg = new RegExp(pattern, 'ig')
     const filtered = data_cards.filter((card) => {
       return reg.test(card.data)
     })
@@ -17,12 +18,7 @@ const Cards = () => {
   }
   return (
     <div className="flex flex-col min-h-full sticky top-0 overflow-x-hidden">
-      <header className="h-20 z-50 p-4 min-w-full shadow-lg bg-darker">
-        <div className="relative">
-          <IconSearch />
-          <Input value={search} onChange={handleSearch} />
-        </div>
-      </header>
+      <Header value={search} onChange={handleSearch} />
 
       <div className="card-container overflow-y-scroll">
         <div className="p-4 grid lg:grid-cols-5 sm:grid-cols-3 gap-4">
