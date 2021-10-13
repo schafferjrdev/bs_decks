@@ -1,8 +1,8 @@
-import Lightbox from 'react-image-lightbox'
 import React, { useMemo, useState } from 'react'
 import { IconAmplify } from 'Icons'
 import PropTypes from 'prop-types'
 import { Dots } from 'Components'
+import Lightbox from 'react-image-lightbox'
 
 export const AmplifyButton = ({ onClick }) => {
   return (
