@@ -20,9 +20,13 @@ const Deck = () => {
   }
 
   const handleClick = (e) => {
-    setDeck((prevDeck) => {
-      return [...prevDeck, e]
-    })
+    const count = finalDeck.find((item) => item.uuid === e.uuid)?.counts || 0
+
+    if (count < 3) {
+      setDeck((prevDeck) => {
+        return [...prevDeck, e]
+      })
+    }
   }
 
   useEffect(() => {
@@ -52,7 +56,7 @@ const Deck = () => {
 
   return (
     <div className="flex flex-col min-h-full sticky top-0 overflow-x-hidden">
-      <Header value={search} onChange={handleSearch} />
+      <Header search={search} handleSearch={handleSearch} />
 
       <div className="flex">
         <div className="card-container overflow-y-scroll">
@@ -61,13 +65,14 @@ const Deck = () => {
               <Card
                 key={card.uuid}
                 data={card}
+                deckList={finalDeck}
                 onCardClick={handleClick}
                 onCardRemoveClick={handleRemoveClick}
               />
             ))}
           </div>
         </div>
-        <div className="w-2/6 card-container overflow-y-scroll p-4 border-l border-gray-400 border-opacity-20">
+        <div className="w-2/3 card-container overflow-y-scroll p-4 border-l border-gray-400 border-opacity-20">
           <p className="text-white">{deck.length}/60</p>
           {finalDeck.map((d, i) => (
             <p

@@ -18,7 +18,7 @@ const Cards = () => {
   }
   return (
     <div className="flex flex-col min-h-full sticky top-0 overflow-x-hidden">
-      <Header value={search} onChange={handleSearch} />
+      <Header search={search} handleSearch={handleSearch} />
 
       <div className="card-container overflow-y-scroll">
         <div className="p-4 grid lg:grid-cols-5 sm:grid-cols-3 gap-4">
