@@ -1,24 +1,6 @@
 import React, { useState, useEffect } from 'react'
-import { Card, Header } from 'Components'
+import { Card, Header, DeckItem } from 'Components'
 import data_cards from 'data/cards.json'
-
-const CARD_TYPES = {
-  Suporte: '#488370',
-  Cenário: '#536b82',
-  Personagem: '#896063',
-  'Habilidade - N/A': '#57595b',
-  'Habilidade - {AG}': '#ae7f5e',
-  'Habilidade - {AD}': '#009642',
-  'Habilidade - {AE}': '#d6ac07',
-  'Habilidade - {EL}': '#7f764f',
-  'Habilidade - {GE}': '#aab924',
-  'Habilidade - {LA}': '#0062a3',
-  'Habilidade - {RE}': '#a10b10',
-  'Habilidade - {SF}': '#904929',
-  'Habilidade - {TC}': '#9b5992',
-  'Habilidade - {TE}': '#5a3b85',
-  'Habilidade - {VO}': '#6cb4d2',
-}
 
 const Deck = () => {
   const [search, setSearch] = useState('')
@@ -92,25 +74,12 @@ const Deck = () => {
         </div>
         <div className="w-2/6 card-container overflow-y-scroll p-4 border-l border-gray-400 border-opacity-20">
           <p className="text-white">{deck.length}/60</p>
-          {finalDeck.map((d, i) => (
-            <p
-              className="text-gray-50 my-2 rounded-md p-2 font-bold flex justify-between items-center cursor-pointer shadow-lg"
-              key={d.uuid + i}
-              style={{
-                textShadow: 'rgb(0 0 0) 0px 1px 3px',
-                background: `linear-gradient(90deg, ${
-                  CARD_TYPES[d.data.split('\n')[0]]
-                } 20%, rgba(207, 130, 155, 0) 70%), url(${d.image}) no-repeat`,
-                backgroundSize: '30vmax',
-                backgroundPosition: 'left center',
-              }}
-              onClick={() => handleRemoveClick(d.uuid)}
-            >
-              <span>{d.data.split('\n')[1]}</span>{' '}
-              <span className="bg-darker px-2 border-4 border-double">
-                x{d.counts}
-              </span>
-            </p>
+          {finalDeck.map((item, index) => (
+            <DeckItem
+              key={item.uuid + index}
+              item={item}
+              onClick={handleRemoveClick}
+            />
           ))}
         </div>
       </div>
