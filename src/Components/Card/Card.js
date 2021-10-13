@@ -1,4 +1,6 @@
-import React, { useMemo } from 'react'
+import Lightbox from 'react-image-lightbox'
+import React, { useMemo, useState } from 'react'
+import { IconAmplify } from 'Icons'
 import PropTypes from 'prop-types'
 import { Dots } from 'Components'
 
@@ -9,6 +11,8 @@ const Card = ({
   onCardClick,
   onCardRemoveClick,
 }) => {
+  const [amp, setAmp] = useState(false)
+
   const handleMouseMove = (e) => {
     const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent)
     if (!isMobile) {
@@ -48,29 +52,62 @@ const Card = ({
     [deckList],
   )
 
-  return readOnly ? (
-    <img
-      onMouseEnter={handleMouseEnter}
-      onMouseLeave={handleMouseLeave}
-      onMouseMove={handleMouseMove}
-      src={data.image}
-    />
-  ) : (
-    <div>
-      <img
-        onMouseEnter={handleMouseEnter}
-        onMouseLeave={handleMouseLeave}
-        onMouseMove={handleMouseMove}
-        onClick={() => onCardClick(data)}
-        onContextMenu={(e) => {
-          e.preventDefault()
-          onCardRemoveClick(data.uuid)
-        }}
-        src={data.image}
-        className={`cursor-pointer${classDone}`}
-      />
-      <Dots number={counts} />
-    </div>
+  const handleAmplify = () => {
+    setAmp(true)
+  }
+
+  const handleCloseAmplify = () => {
+    setAmp(false)
+  }
+
+  return (
+    <>
+      {amp && (
+        <Lightbox mainSrc={data.image} onCloseRequest={handleCloseAmplify} />
+      )}
+      {readOnly ? (
+        <div className="relative group">
+          <div
+            onClick={handleAmplify}
+            className="opacity-0 group-hover:opacity-70 rounded-full flex items-center justify-center w-10 h-10 bg-black absolute top-5 right-5 z-50 text-white cursor-pointer"
+          >
+            <IconAmplify />
+          </div>
+          <img
+            onMouseEnter={handleMouseEnter}
+            onMouseLeave={handleMouseLeave}
+            onMouseMove={handleMouseMove}
+            src={data.image}
+            alt={`Card ${data.uuid} from BS`}
+          />
+        </div>
+      ) : (
+        <div className="relative group">
+          <div
+            onClick={handleAmplify}
+            className="opacity-0 group-hover:opacity-70 rounded-full flex items-center justify-center w-10 h-10 bg-black absolute top-5 right-5 z-50 text-white cursor-pointer"
+          >
+            <IconAmplify />
+          </div>
+          <img
+            onMouseEnter={handleMouseEnter}
+            onMouseLeave={handleMouseLeave}
+            onMouseMove={handleMouseMove}
+            onClick={() => onCardClick(data)}
+            onContextMenu={(e) => {
+              e.preventDefault()
+              onCardRemoveClick(data.uuid)
+            }}
+            src={data.image}
+            className={`cursor-pointer${classDone}`}
+            alt={`Card ${data.uuid} from BS`}
+            width="400"
+            height="600"
+          />
+          <Dots number={counts} />
+        </div>
+      )}
+    </>
   )
 }
 
