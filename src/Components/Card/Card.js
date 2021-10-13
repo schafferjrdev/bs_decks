@@ -4,6 +4,17 @@ import { IconAmplify } from 'Icons'
 import PropTypes from 'prop-types'
 import { Dots } from 'Components'
 
+export const AmplifyButton = ({ onClick }) => {
+  return (
+    <div
+      onClick={onClick}
+      className="md:opacity-0 opacity-70 group-hover:opacity-70 rounded-full flex items-center justify-center w-10 h-10 bg-black absolute top-5 right-5 z-50 text-white cursor-pointer"
+    >
+      <IconAmplify />
+    </div>
+  )
+}
+
 const Card = ({
   data,
   deckList = [],
@@ -65,50 +76,34 @@ const Card = ({
       {amp && (
         <Lightbox mainSrc={data.image} onCloseRequest={handleCloseAmplify} />
       )}
-      {readOnly ? (
-        <div className="relative group">
-          <div
-            onClick={handleAmplify}
-            className="opacity-0 group-hover:opacity-70 rounded-full flex items-center justify-center w-10 h-10 bg-black absolute top-5 right-5 z-50 text-white cursor-pointer"
-          >
-            <IconAmplify />
-          </div>
-          <img
-            onMouseEnter={handleMouseEnter}
-            onMouseLeave={handleMouseLeave}
-            onMouseMove={handleMouseMove}
-            src={data.image}
-            alt={`Card ${data.uuid} from BS`}
-          />
-        </div>
-      ) : (
-        <div className="relative group">
-          <div
-            onClick={handleAmplify}
-            className="opacity-0 group-hover:opacity-70 rounded-full flex items-center justify-center w-10 h-10 bg-black absolute top-5 right-5 z-50 text-white cursor-pointer"
-          >
-            <IconAmplify />
-          </div>
-          <img
-            onMouseEnter={handleMouseEnter}
-            onMouseLeave={handleMouseLeave}
-            onMouseMove={handleMouseMove}
-            onClick={() => onCardClick(data)}
-            onContextMenu={(e) => {
-              e.preventDefault()
-              onCardRemoveClick(data.uuid)
-            }}
-            src={data.image}
-            className={`cursor-pointer${classDone}`}
-            alt={`Card ${data.uuid} from BS`}
-            width="400"
-            height="600"
-          />
-          <Dots number={counts} />
-        </div>
-      )}
+      <div className="relative group">
+        {!readOnly && <AmplifyButton onClick={handleAmplify} />}
+        <img
+          onMouseEnter={handleMouseEnter}
+          onMouseLeave={handleMouseLeave}
+          onMouseMove={handleMouseMove}
+          onClick={() => {
+            if (readOnly) handleAmplify()
+            else onCardClick(data)
+          }}
+          onContextMenu={(e) => {
+            e.preventDefault()
+            if (!readOnly) onCardRemoveClick(data.uuid)
+          }}
+          src={data.image}
+          className={`cursor-pointer${classDone}`}
+          alt={`Card ${data.uuid} from BS`}
+          width="400"
+          height="600"
+        />
+        {!readOnly && <Dots number={counts} />}
+      </div>
     </>
   )
+}
+
+AmplifyButton.propTypes = {
+  onClick: PropTypes.func.isRequired,
 }
 
 Card.propTypes = {
