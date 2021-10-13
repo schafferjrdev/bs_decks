@@ -1,6 +1,19 @@
-import React, { useMemo } from 'react'
+import React, { useMemo, useState } from 'react'
+import { IconAmplify } from 'Icons'
 import PropTypes from 'prop-types'
 import { Dots } from 'Components'
+import Lightbox from 'react-image-lightbox'
+
+export const AmplifyButton = ({ onClick }) => {
+  return (
+    <div
+      onClick={onClick}
+      className="md:opacity-0 opacity-70 group-hover:opacity-70 rounded-full flex items-center justify-center w-10 h-10 bg-black absolute top-5 right-5 z-50 text-white cursor-pointer"
+    >
+      <IconAmplify />
+    </div>
+  )
+}
 
 const Card = ({
   data,
@@ -9,6 +22,8 @@ const Card = ({
   onCardClick,
   onCardRemoveClick,
 }) => {
+  const [amp, setAmp] = useState(false)
+
   const handleMouseMove = (e) => {
     const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent)
     if (!isMobile) {
@@ -48,30 +63,47 @@ const Card = ({
     [deckList],
   )
 
-  return readOnly ? (
-    <img
-      onMouseEnter={handleMouseEnter}
-      onMouseLeave={handleMouseLeave}
-      onMouseMove={handleMouseMove}
-      src={data.image}
-    />
-  ) : (
-    <div>
-      <img
-        onMouseEnter={handleMouseEnter}
-        onMouseLeave={handleMouseLeave}
-        onMouseMove={handleMouseMove}
-        onClick={() => onCardClick(data)}
-        onContextMenu={(e) => {
-          e.preventDefault()
-          onCardRemoveClick(data.uuid)
-        }}
-        src={data.image}
-        className={`cursor-pointer${classDone}`}
-      />
-      <Dots number={counts} />
-    </div>
+  const handleAmplify = () => {
+    setAmp(true)
+  }
+
+  const handleCloseAmplify = () => {
+    setAmp(false)
+  }
+
+  return (
+    <>
+      {amp && (
+        <Lightbox mainSrc={data.image} onCloseRequest={handleCloseAmplify} />
+      )}
+      <div className="relative group">
+        {!readOnly && <AmplifyButton onClick={handleAmplify} />}
+        <img
+          onMouseEnter={handleMouseEnter}
+          onMouseLeave={handleMouseLeave}
+          onMouseMove={handleMouseMove}
+          onClick={() => {
+            if (readOnly) handleAmplify()
+            else onCardClick(data)
+          }}
+          onContextMenu={(e) => {
+            e.preventDefault()
+            if (!readOnly) onCardRemoveClick(data.uuid)
+          }}
+          src={data.image}
+          className={`cursor-pointer${classDone}`}
+          alt={`Card ${data.uuid} from BS`}
+          width="400"
+          height="600"
+        />
+        {!readOnly && <Dots number={counts} />}
+      </div>
+    </>
   )
+}
+
+AmplifyButton.propTypes = {
+  onClick: PropTypes.func.isRequired,
 }
 
 Card.propTypes = {
