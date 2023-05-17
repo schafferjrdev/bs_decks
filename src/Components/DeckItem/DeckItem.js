@@ -1,11 +1,12 @@
 import React, { useState } from 'react'
 import PropTypes from 'prop-types'
 import { Popover, ArrowContainer } from 'react-tiny-popover'
-import { CARD_TYPES } from 'utils'
+import { CARD_TYPES, TYPES_BG } from 'utils'
 
 const DeckItem = ({ item, onClick }) => {
   const [isPopoverOpen, setIsPopoverOpen] = useState(false)
-
+  const type = item.data.split('\n')[0].split(' ')[0]
+  console.log('TYPE', type)
   return (
     <Popover
       isOpen={isPopoverOpen}
@@ -35,8 +36,8 @@ const DeckItem = ({ item, onClick }) => {
           background: `linear-gradient(90deg, ${
             CARD_TYPES[item.data.split('\n')[0]]
           } 20%, rgba(207, 130, 155, 0) 70%), url(${item.image}) no-repeat`,
-          backgroundSize: '30vmax',
-          backgroundPosition: 'left center',
+          backgroundSize: '24vmax',
+          backgroundPosition: TYPES_BG[type],
         }}
         onClick={() => onClick(item.uuid)}
         onMouseOver={() => setIsPopoverOpen(true)}

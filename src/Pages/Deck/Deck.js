@@ -1,5 +1,8 @@
 import React, { useState, useEffect } from 'react'
 import { Card, Header, DeckItem } from 'Components'
+import { IconSave } from 'Icons'
+import { base64Encode, base64Decode } from 'utils'
+import { useParams } from 'react-router-dom'
 import data_cards from 'data/cards.json'
 
 const Deck = () => {
@@ -7,14 +10,15 @@ const Deck = () => {
   const [cards, setCards] = useState(data_cards)
   const [deck, setDeck] = useState([])
   const [finalDeck, setFinalDeck] = useState([])
+  let { id } = useParams()
 
   const handleSearch = (e) => {
     const text = e.target.value
     setSearch(text)
     const pattern = text.replace(/[.*+?^${}()|[\]\\]/, '\\$&')
-    const reg = new RegExp(pattern, 'ig')
+    const reg = new RegExp(pattern, 'mi')
     const filtered = data_cards.filter((card) => {
-      return reg.test(card.data)
+      return reg.test(card.data, 'mi')
     })
     setCards(filtered)
   }
@@ -45,13 +49,34 @@ const Deck = () => {
     setFinalDeck(final)
   }, [deck])
 
+  // SAVED DECKS
+  useEffect(() => {
+    try {
+      const deck = base64Decode(id)
+      setDeck(deck)
+    } catch (error) {
+      console.log('No Deck')
+    }
+  }, [])
+
+  console.log('DECK', deck)
+
   const handleRemoveClick = (uuid) => {
+    console.log('REMOVE CLICK', uuid)
     const new_array = [...deck]
     const index = new_array.findIndex((el) => el.uuid === uuid)
     if (index > -1) {
       new_array.splice(index, 1)
       setDeck(new_array)
     }
+  }
+
+  const saveList = () => {
+    const string = JSON.stringify(deck)
+    const encoded = base64Encode(string)
+    const list = localStorage.getItem('my-deck-list')
+    const savingList = list ? [...JSON.parse(list), encoded] : [encoded]
+    localStorage.setItem('my-deck-list', JSON.stringify(savingList))
   }
 
   return (
@@ -68,12 +93,18 @@ const Deck = () => {
                 deckList={finalDeck}
                 onCardClick={handleClick}
                 onCardRemoveClick={handleRemoveClick}
+                showDots
               />
             ))}
           </div>
         </div>
         <div className="w-2/6 card-container overflow-y-scroll p-4 border-l border-gray-400 border-opacity-20">
-          <p className="text-white">{deck.length}/60</p>
+          <div className="flex justify-between">
+            <p className="text-white">{deck.length}/60</p>
+            <button onClick={saveList} className="rounded-sm text-white">
+              <IconSave />
+            </button>
+          </div>
           {finalDeck.map((item, index) => (
             <DeckItem
               key={item.uuid + index}

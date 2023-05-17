@@ -21,6 +21,7 @@ const Card = ({
   readOnly,
   onCardClick,
   onCardRemoveClick,
+  showDots,
 }) => {
   const [amp, setAmp] = useState(false)
 
@@ -53,6 +54,8 @@ const Card = ({
   const classDone = useMemo(
     () =>
       (deckList.find((item) => item.uuid === data.uuid)?.counts || 0) < 3
+        ? ''
+        : readOnly
         ? ''
         : ' opacity-50',
     [deckList],
@@ -96,7 +99,7 @@ const Card = ({
           width="400"
           height="600"
         />
-        {!readOnly && <Dots number={counts} />}
+        {showDots && <Dots number={counts} />}
       </div>
     </>
   )
@@ -110,6 +113,7 @@ Card.propTypes = {
   data: PropTypes.object,
   deckList: PropTypes.array,
   readOnly: PropTypes.bool,
+  showDots: PropTypes.bool,
   onCardClick: PropTypes.func,
   onCardRemoveClick: PropTypes.func,
 }
