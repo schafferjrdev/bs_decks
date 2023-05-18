@@ -30,7 +30,7 @@ const Home = () => {
         <LinkButton title="Criar meus Decks" route="/deck" />
       </div>
 
-      <div className="flex space-x-10 justify-center items-center">
+      <div className="h-screen w-screen flex space-x-10 justify-center items-start">
         {list.map((l, i) => (
           <DeckThumb onClick={editDeck} key={i} i={i} l={l} />
         ))}
@@ -44,17 +44,16 @@ const DeckThumb = ({ i, l, onClick }) => {
   console.log('DECK THUMB', i, deck[0].image)
   return (
     <span
-      className="group w-1/4 shadow-lg hover:shadow-2xl border-solid border-gray-500 transition-all border-2 hover:border-t-4 text-white  items-end justify-end flex cursor-pointer"
+      className="rounded-lg h-36 w-1/4 items-end justify-end flex cursor-pointer hover:opacity-80"
       onClick={() => onClick(i, l)}
       key={l}
       style={{
         background: `url(${deck[0].image}) no-repeat`,
         backgroundSize: '43vmax',
         backgroundPosition: '62% 30%',
-        height: '150px',
       }}
     >
-      <span className="transition-all px-4 bg-darker group-hover:bg-white w-full text-right group-hover:text-darker">
+      <span className="rounded-b-lg px-4 w-full text-darker bg-gray-200 text-right">
         Deck {i + 1}
       </span>
     </span>
@@ -62,7 +61,7 @@ const DeckThumb = ({ i, l, onClick }) => {
 }
 
 DeckThumb.propTypes = {
-  i: PropTypes.string.isRequired,
+  i: PropTypes.number.isRequired,
   l: PropTypes.string.isRequired,
   onClick: PropTypes.func,
 }

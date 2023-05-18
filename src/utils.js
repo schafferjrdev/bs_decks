@@ -79,3 +79,5 @@ export function base64Decode(encodedString) {
   // Analisa a string JSON de volta para um objeto
   return JSON.parse(decodedString)
 }
+
+// https://images.weserv.nl/?url=

@@ -1,21 +1,10 @@
 module.exports = {
-  purge: ['./src/**/*.{js,jsx,ts,tsx}', './public/index.html'],
-  darkMode: false, // or 'media' or 'class'
+  content: ['./src/**/*.{html,js,jsx}'],
   theme: {
-    extend: {},
-
-    backgroundColor: (theme) => ({
-      ...theme('colors'),
-      darker: '#222236',
-    }),
-
-    textColor: (theme) => ({
-      ...theme('colors'),
-      darker: '#222236',
-    }),
+    extend: {
+      colors: {
+        darker: '#222236',
+      },
+    },
   },
-  variants: {
-    extend: {},
-  },
-  plugins: [],
 }
