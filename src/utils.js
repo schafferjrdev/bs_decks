@@ -6,12 +6,12 @@ export function convert(text) {
     return s
   }
   const result = text.split('\n\n\n').map((e, i) => ({
-    uuid: 'bsic_' + pad('' + (i + 1)),
-    image: `http://www.magicjebb.com.br/bs_images/009_bsic/BSIC_${pad(
+    uuid: 'bsgc_' + pad('' + (i + 1)),
+    image: `https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_${pad(
       '' + (i + 1),
     )}.png`,
     data: e,
-    collection: 'bsic',
+    collection: 'bsgc',
   }))
   return JSON.stringify(result)
 }
@@ -22,6 +22,11 @@ export const CARD_ED = [
   '004_bspo',
   '006_bsmi',
   '009_bsic',
+  '009_bsic',
+  '011_bsiv',
+  '013_bsos',
+  'illuminati',
+  '015_bsgc',
 ]
 
 export const CARD_TYPES = {

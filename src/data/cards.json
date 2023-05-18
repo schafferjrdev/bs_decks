@@ -2642,7 +2642,7 @@
   {
     "uuid": "bsic_033",
     "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/009_bsic/BSIC_033.png",
-    "data": "Personagem\nPantera Negra - V1\nT´Challa\nHerói\n4 / 1\n{AG},{GE},{LA}\nQuarteto Fantástico/Vingadores\nSe este personagem for alvo de uma ação, você pode incapacitá-lo em {1}. Se o fizer, ele causa 2 pontos de dano penetrante no personagem que usou aquela ação.\nAção: Garras de Vibranium\n{1} - Ação Imprevista - {LA}\nEscolha uma opção, (A) Garras de Vibranium causa 2 pontos de dano penetrante no personagem alvo com {LA}; (B) Garras de Vibranium causa 2 pontos de dano penetrante no suporte alvo; (C) Garras de Vibranium causa 1 ponto de dano penetrante no alvo.",
+    "data": "Personagem\nPantera Negra - V1\nT'Challa\nHerói\n4 / 1\n{AG},{GE},{LA}\nQuarteto Fantástico/Vingadores\nSe este personagem for alvo de uma ação, você pode incapacitá-lo em {1}. Se o fizer, ele causa 2 pontos de dano penetrante no personagem que usou aquela ação.\nAção: Garras de Vibranium\n{1} - Ação Imprevista - {LA}\nEscolha uma opção, (A) Garras de Vibranium causa 2 pontos de dano penetrante no personagem alvo com {LA}; (B) Garras de Vibranium causa 2 pontos de dano penetrante no suporte alvo; (C) Garras de Vibranium causa 1 ponto de dano penetrante no alvo.",
     "collection": "bsic"
   },
   {
@@ -3046,5 +3046,1818 @@
     "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/009_bsic/BSIC_100.png",
     "data": "Habilidade - N/A\nPé-De-Cabra Encantado - V1\nItem Único.\nSe o alter ego deste personagem for Dirk Garthwaite, ele ganha {AE}, {TE}, Escudo +2 e a ação Golpe de Pé-de-Cabra torna-se uma ação de Antecipar.\nSe este personagem não for da afiliação Gangue da Demolição, ele não pode usar a ação Golpe de Pé-de-Cabra tendo como alvo um personagem com a afiliação Gangue da Demolição.\nAção: Golpe de Pé-de-Cabra\n{1} - Ação Normal - {SF}\nDescarregue Pé-de-Cabra Encantado: Pé-de-Cabra Encantado causa 3 pontos de dano no alvo.",
     "collection": "bsic"
+  },
+  {
+    "uuid": "bsiv_001",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_001.png",
+    "data": "Personagem - EV\nCaça-Hulk - V1\nAnthony Edward Stark\nHerói\n7 / 3 (+3)\n{AE},{SF},{VO}\nAliados do Homem de Ferro\nEnquanto estiver em seu deck, mão, cena ou recursos, este card também conta como se fosse um card de personagem chamado Homem de Ferro.\nQuando este personagem entrar em cena, você pode escolher um suporte em cena. Se o fizer, este personagem causa X pontos de dano penetrante no suporte escolhido. X é igual à Energia Inicial daquele suporte.\nAção: Punho Hidráulico\n{1} - Ação Normal - {SF}\nEscolha uma opção, (A) Punho Hidráulico causa 4 pontos de dano penetrante no personagem alvo com {SF}; (B) Punho Hidráulico causa 4 pontos de dano no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_002",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_002.png",
+    "data": "Personagem - EV\nCapitão Universo - V1\nCapitão Universo\nHerói\n7 / 3 (+4)\n{AE},{PC},{TC},{VO}\nN/A\nEste personagem ganha as afiliações dos outros personagens que você controla.\nDurante sua Fase de Preparação, uma vez por turno, se você controlar menos personagens que um oponente, você pode capacitar este personagem em {1}.\nAção: Unipoder\n{2} - Ação Normal - {PC}\nEnergia Cósmica 1 - Unipoder causa 3 pontos de dano penetrante em um personagem alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_003",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_003.png",
+    "data": "Personagem\nAbutre - V1\nAdrian Toomes\nVilão\n4 / 1\n{GE},{VO}\nSexteto Sinistro\nA primeira ação que um personagem com a afiliação Sexteto Sinistro que você controla usar em cada turno terá “Você pode procurar em seu deck por um card de personagem com a afiliação Sexteto Sinistro. Se o fizer, revele aquele card, coloque-o em sua mão e embaralhe o seu deck.” após seus outros efeitos.\nAção: Voo do Abutre\n{1} - Ação Normal - {VO}\nVoo do Abutre causa 2 pontos de dano no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_004",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_004.png",
+    "data": "Personagem\nAlkhema - V1\nAlkhema\nVilão\n5 / 2\n{AE},{GE},{SF},{VO}\nInimigos dos Vingadores\nEnquanto estiver em seu deck, este card também conta como se fosse um card de personagem com o alter Ego Ultron.\nAção: Raio de Calor\n{2} - Ação de Antecipar - {AE}\nSe esta ação for usada durante a Etapa de Ataque de seu turno, Raio de Calor causa 3 pontos de dano penetrante no alvo. Se não, Raio de Calor causa 3 pontos de dano no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_005",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_005.png",
+    "data": "Personagem\nArmador - V1\nPaul Norbert Ebersol\nVilão\n4 / 1\n{EL},{GE},{VO}\nH.I.D.R.A./I.M.A.\nEste personagem ganha Escudo +1 para cada card de Suporte que ele estiver carregando.\nAção: Apêndices Cibernéticos\n{1} - Ação Normal - {EL}\nApêndices Cibernéticos causa X+2 pontos de dano no alvo. X é igual ao número de cards de Suporte que este personagem estiver carregando.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_006",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_006.png",
+    "data": "Personagem\nAurora - V1\nJeanne-Marie Beaubier\nHerói\n3 / 1\n{AG},{VO}\nTropa Alfa\nToda vez que este personagem for capacitado, se você controlar outro personagem com a afiliação Tropa Alfa, este personagem (Aurora) pode causar 1 ponto de dano em um personagem ou suporte.\nAção: Vendaval Polar\n{1} - Ação de Antecipar - {VO}\nSe outra ação chamada Vendaval Polar tiver sido usada neste turno, Vendaval Polar causa 2 pontos de dano no alvo. Se não, Vendaval Polar causa 1 ponto de dano no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_007",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_007.png",
+    "data": "Personagem\nBarão Strucker - V1\nWolfgang von Strucker\nVilão\n4 / 1\n{AD},{GE},{LA},{RE}\nH.I.D.R.A.\nDurante sua Fase de Preparação, uma vez por turno, você pode olhar os X cards do topo de seu deck, sendo X igual ao número de personagens com a afiliação H.I.D.R.A. que você controla. Se o fizer, você pode colocar um daqueles cards em seus recursos e os demais no topo de seu deck em qualquer ordem.\nAção: Avaliar Alternativas\n{0} - Ação Imprevista - {GE}\nCompre um card. Este personagem pode usar mais uma ação de {AD}, {LA} ou {RE} neste turno.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_008",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_008.png",
+    "data": "Personagem\nBarão Zemo - V1\nHelmut J. Zemo\nVilão\n4 / 2\n{AG},{AD},{GE},{LA}\nMestres do Terror\nEste personagem não pode ser alvo de ações de {TE}.\nQuando um personagem com a afiliação Mestres do Terror entrar em cena sob seu controle, você pode capacitar em {1} um personagem com a afiliação Mestres do Terror que você controla e que não seja aquele.\nAção: Avaliar Opções\n{0} - Ação Imprevista - {GE}\nCompre um card. Este personagem pode usar mais uma ação de {AG}, {AD} ou {LA} neste turno.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_009",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_009.png",
+    "data": "Personagem\nBarracuda - V1\nBarracuda\nVilão\n4 / 1\n{AD}\nInimigos do Justiceiro\nQuando este personagem entrar em cena, você pode descarregar um card de um personagem com Energia Inicial 1 controlado por outro jogador.\nAção: #?@&!$\n{1} - Ação Imprevista - {AD}\n#?@&!$ causa 1 ponto de dano no alvo. Este personagem pode usar esta ação outra vez neste turno.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_010",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_010.png",
+    "data": "Personagem\nBatedor Nova - V1\nN/A\nHerói\n4 / 1\n{PC},{VO}\nTropa Nova\nPelotão.\nEste personagem ganha Escudo +1 se estiver carregando algum card de habilidade de {PC}.\nAção: Poder Nova\n{1} - Ação Normal - {PC}\nEnergia Cósmica 1 - Poder Nova causa 2 pontos de dano no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_011",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_011.png",
+    "data": "Personagem\nBlecaute - V1\nMarcus Daniels\nHerói/Vilão\n4 / 1\n{AE},{PC},{VO}\nThunderbolts\nAção: Força Negra\n{0} - Ação de Antecipar - {PC}\nEnergia Cósmica 2 - Força Negra causa 2 pontos de dano no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_012",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_012.png",
+    "data": "Personagem\nCamaleão - V2\nDmitri Smerdyakov\nVilão\n3 / 1\n{AD}\nSexteto Sinistro\nQuando um personagem com a afiliação Sexteto Sinistro que você controla receber dano de um personagem controlado por um oponente que entrou em cena neste turno, aquele dano torna-se 0.\nAção: Ataque Sorrateiro\n{1} - Ação de Antecipar - {AD}\nAtaque Sorrateiro causa X+1 pontos de dano no alvo. X é igual ao número de vezes que esta ação foi usada anteriormente por este personagem neste turno. Este personagem pode usar esta ação outra vez neste turno.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_013",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_013.png",
+    "data": "Personagem\nCapitão Louco - V1\nCapitão Louco\nVilão\n3 / 1\n{RE},{TE}\nMestres do Terror\nReviver.\nAção: Induzir Insanidade\n{1} - Ação Normal - {TE}\nCarregue qualquer número de cards no personagem alvo: Descarregue aquele mesmo número de cards daquele personagem.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_014",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_014.png",
+    "data": "Personagem\nCeifador - V1\nEric Williams\nVilão\n3 / 1\n{LA},{MA}\nSexteto Sinistro/H.I.D.R.A.\nAção: Foice Rotativa\n{1} - Ação de Antecipar - {LA}\nSe esta ação foi usada em seu próprio turno, Foice Rotativa causa 2 pontos de dano no alvo. Se não, Foice Rotativa causa 1 ponto de dano no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_015",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_015.png",
+    "data": "Personagem\nConsertador - V1\nPhineas Mason\nVilão\n1 / 1\n{GE}\nN/A\nAção: Reparos Rápidos\n{1} - Ação de Antecipar - {GE}\nCarregue um card de habilidade de seus recursos em um personagem vilão que você controla: Toda vez que este personagem (o personagem que usou esta ação) fosse receber dano neste turno, aquele dano torna-se 0.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_016",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_016.png",
+    "data": "Personagem\nCorisco - V1\nJames Sanders\nVilão\n3 / 1\n{AG}\nSexteto Sinistro\nQuando este personagem entrar em cena, se você controlar outro personagem com a afiliação Sexteto Sinistro e houver cards nos recursos de um oponente, você pode escolher um personagem que aquele jogador controla. Se o fizer, carregue um card dos recursos daquele jogador no personagem escolhido e então descarregue um card daquele personagem.\nAção: Pancada Rápida\n{1} - Ação de Antecipar - {AG}\nPancada Rápida causa 1 ponto de dano no alvo. Este personagem pode usar esta ação outra vez neste turno.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_017",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_017.png",
+    "data": "Personagem\nDemolição - V1\nDennis Dunphy\nHerói\n5 / 2\n{SF}\nVingadores\nAção: Suplex\n{1} - Ação Normal - {SF}\nSuplex causa 3 pontos de dano no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_018",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_018.png",
+    "data": "Personagem\nDuende Macabro - V1\nJason Macendale Jr.\nVilão\n4 / 1\n{AD},{VO}\nSexteto Sinistro\nAção: Explodir e Saquear\n{1} - Ação Normal - {AD}\nExplodir e Saquear causa 2 pontos de dano no alvo. Se você controlar outro personagem com a afiliação Sexteto Sinistro, coloque os dois cards do topo de seu deck em seus recursos.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_019",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_019.png",
+    "data": "Personagem\nDuende Verde - V2\nNorman Osborn\nVilão\n4 / 1\n{AD},{GE},{VO}\nSexteto Sinistro\nQuando este personagem entrar em cena, escolha um personagem em cena que não tenha a afiliação Sexteto Sinistro.\nToda vez que uma ação de um personagem com a afiliação Sexteto Sinistro fosse causar dano no personagem escolhido, ela causará aquela quantidade de dano +1.\nAção: Arsenal Fantasma\n{1} - Ação de Antecipar - {AD}\nArsenal Fantasma causa 1 ponto de dano no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_020",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_020.png",
+    "data": "Personagem\nEspadachim - V1\nJacques Duquesne\nHerói\n3 / 1\n{AE},{LA}\nVingadores\nAção: Espada Lança-Raios\n{1} - Ação Normal - {LA}\nEspada Lança-Raios causa 2 pontos de dano no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_021",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_021.png",
+    "data": "Personagem\nEspectro Vermelho - V1\nEspectro Vermelho\nN/A\n6 / 3\n{LA},{PC}\nArautos de Galactus\nAção: Lâminas Cósmicas\n{1} - Ação Normal - {PC}\nEnergia Cósmica 2 - Lâminas Cósmicas causa 3 pontos de dano em um alvo e 2 pontos de dano em outro alvo diferente.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_022",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_022.png",
+    "data": "Personagem\nEstrela Polar - V1\nJean-Paul Beaubier\nHerói\n3 / 1\n{AG},{VO}\nTropa Alfa\nToda vez que este personagem for capacitado, se você controlar outro personagem com a afiliação Tropa Alfa, este personagem (Estrela Polar) pode causar 1 ponto de dano em um personagem ou suporte.\nAção: Vendaval Polar\n{1} - Ação de Antecipar - {VO}\nSe outra ação chamada Vendaval Polar tiver sido usada neste turno, Vendaval Polar causa 2 pontos de dano no alvo. Se não, Vendaval Polar causa 1 ponto de dano no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_023",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_023.png",
+    "data": "Personagem\nFlama - V1\nAngelica Jones\nHerói\n3 / 1\n{AE},{VO}\nVingadores/Novos Guerreiros\nAção: Microondas\n{1} - Ação Normal - {AE}\nSe outro personagem com a afiliação Vingadores já usou uma ação de {AE} neste turno, Microondas causa 3 pontos de dano no alvo. Se não, Microondas causa 2 pontos de dano no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_024",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_024.png",
+    "data": "Personagem\nGarra Sônica - V1\nUlysses Klaw\nVilão\n4 / 2\n{GE},{RE}\nMestres do Terror\nDurante sua Fase de Preparação, se este card estiver nos prêmios de seus oponentes, você pode revelar um card de personagem com Energia Inicial 4 ou maior de sua mão. Se o fizer, coloque este card em sua mão e o card revelado nos prêmios de seus oponentes.\nAção: Emissão Sônica\n{1} - Ação de Antecipar - N/A\nEmissão Sônica causa 1 ponto de dano no personagem alvo. Escolha um poder. O alvo não pode usar ações do poder escolhido até o final do turno.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_025",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_025.png",
+    "data": "Personagem\nGavião Arqueiro - V2\nClinton Francis Barton\nHerói\n3 / 1\n{AD}\nS.H.I.E.L.D./Vingadores\nProntidão - ações Flechas Especiais e Voleio de Flechas (as ações indicadas podem ser usadas por este personagem no turno em que ele entrou em cena - os personagens só podem usar uma ação por turno).\nEnquanto você controlar um outro personagem com uma afiliação em comum com este personagem, a ação Flechas Especiais deste personagem torna-se uma ação de Antecipar e Imprevista.\nAção: Voleio de Flechas\n{0} - Ação de Antecipar/Ação Imprevista - {AD}\nVoleio de Flechas causa 1 ponto de dano no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_026",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_026.png",
+    "data": "Personagem\nGeneticista I.M.A. - V1\nN/A\nVilão\n1 / 0\n{AD},{GE}\nI.M.A.\nPelotão.\nAção: Clonagem Clandestina\n{2} - Ação Imprevista - {GE}\nDurante a Fase de Preparação deste turno, você pode colocar em cena um personagem com alter ego igual ao de um personagem com a afiliação I.M.A. ou H.I.D.R.A. que você controla. Se o fizer, nocauteie este personagem.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_027",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_027.png",
+    "data": "Personagem\nGuardião - V1\nJames MacDonald Hudson\nHerói\n4 / 2\n{AE},{TC},{VO}\nTropa Alfa\nLiderar {1} - afiliação Tropa Alfa.\nAção: Escudo Absorvente\n{X} - Ação de Antecipar - {TC}\nEste personagem (o personagem que usou esta ação) ganha Escudo +X até o final do turno. Se X for maior que 0, descarregue um card de habilidade do personagem alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_028",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_028.png",
+    "data": "Personagem\nHércules - V1\nHeracles\nHerói\n6 / 3\n{SF}\nVingadores\nAção: O Mais Forte\n{1} - Ação Normal - {SF}\nO Mais Forte causa X+2 pontos de dano no alvo. X é igual ao número de outros personagens com {SF} em cena.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_029",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_029.png",
+    "data": "Personagem\nHomem-Absorvente - V2\nCarl Creel\nVilão\n6 / 1\nMestres do Terror\nDurante sua Fase de Preparação, uma vez por turno, você pode carregar um card de seus recursos neste personagem.\nEste personagem ganha Escudo +1 para cada tipo de card que ele estiver carregando (os tipos de cards são personagem, suporte, cenário e habilidade).\nAção: Maça Giratória\n{1} - Ação Normal - N/A\nMaça Giratória causa 3 pontos de dano no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_030",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_030.png",
+    "data": "Personagem\nHomem-Hídrico - V1\nMorris Bench\nVilão\n6 / 3\n{EL},{SF},{VO}\nMestres do Terror\nEste personagem pode ser colocado em cena carregando uma quantidade de cards menor do que sua Energia Inicial (por exemplo, ele pode ser colocado em cena com 4 cards de seus recursos).\nAção: Prisão de Água\n{2} - Ação Normal - {EL}\nPrisão de Água causa X pontos de dano no personagem alvo. X é igual ao número de cards que este personagem (o personagem que usou esta ação) estiver carregando.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_031",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_031.png",
+    "data": "Personagem\nHulkling - V1\nTheodore Altman\nHerói\n5 / 2\n{EL},{SF},{VO}\nJovens Vingadores\nMetamorfo.\nAção: Capacidade Mutável\n{1} - Ação Normal - {SF}\nEscolha uma opção, (A) Capacidade Mutável causa 3 pontos de dano no alvo; (B) Capacidade Mutável causa 2 pontos de dano a cada um de até dois alvos diferentes.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_032",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_032.png",
+    "data": "Personagem\nIrmão Vodu - V1\nJericho Drumm\nHerói\n3 / 1\n{AE},{MA}\nHeróis de Aluguel/Vingadores\nAção: Poder de Loa\n{0} - Ação Normal - N/A\nAção Única (este personagem não pode usar mais de uma ação chamada Poder de Loa por turno) - Este personagem ganha o alter ego de um card de personagem que ele estiver carregando até o final do turno. Este personagem pode usar mais uma ação neste turno.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_033",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_033.png",
+    "data": "Personagem\nKarolina Dean - V1\nKarolina Dean\nHerói\n3 / 1\n{AE},{PC},{VO}\nFugitivos\nQuando um personagem com a afiliação Fugitivos que você controla receber dano de um personagem que entrou em cena neste turno, você pode descarregar um card deste personagem. Se o fizer, aquele dano torna-se 0.\nAção: Pulso Luminoso\n{1} - Ação Normal - {AE}\nPulso Luminoso causa 2 pontos de dano no alvo. Você pode carregar um card de habilidade de {AE} de seus recursos neste personagem.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_034",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_034.png",
+    "data": "Personagem\nLayla Miller - V1\nLayla Rose Miller\nHerói\n3 / 1\n{MA},{TC}\nX-Factor\nEste personagem não pode ser alvo da primeira ação com alvo que for usada por um oponente em cada turno.\nAção: Ela Sabe das Coisas\n{1} - Ação Normal - {MA}\nClarividência 2 - Ela Sabe das Coisas causa 2 pontos de dano no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_035",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_035.png",
+    "data": "Personagem\nMiss América - V1\nAmerica Chavez\nHerói\n5 / 3\n{SF},{VO}\nJovens Vingadores\nAção: Esmurrar\n{1} - Ação Normal - {SF}\nEsmurrar causa 3 pontos de dano no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_036",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_036.png",
+    "data": "Personagem\nM.O.D.O.K. - V1\nGeorge Tarleton\nVilão\n4 / 2\n{GE},{TC},{TE},{VO}\nIntelligencia/I.M.A.\nEnquanto você controlar um outro personagem com uma afiliação em comum com este personagem, a ação Previsão de Falha será uma ação Imprevista.\nAção: Previsão de Falha\n{1} - Ação Normal - {GE}\nCarregue um card de habilidade em um personagem controlado por um oponente. Descarregue um card daquele personagem.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_037",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_037.png",
+    "data": "Personagem\nMorbius - V1\nMichael Morbius\nHerói\n4 / 2\n{GE},{RE},{TE},{VO}\nLegião de Monstros\nAção: Sede de Sangue\n{1} - Ação Normal - {RE}\nSede de Sangue causa 2 pontos de dano no alvo. Carregue um card que não seja de habilidade de seus recursos neste personagem.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_038",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_038.png",
+    "data": "Personagem\nMr. Hyde - V1\nCalvin Zabo\nVilão\n5 / 1\n{GE}\nMestres do Terror/Thunderbolts\nAção: Fórmula Secreta\n{1} - Ação Normal - N/A\nFórmula Secreta causa X+1 pontos de dano no alvo. X é igual ao número de cards de habilidade de {RE} que este personagem estiver carregando. Você pode carregar um card de habilidade de {RE} de seus recursos neste personagem.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_039",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_039.png",
+    "data": "Personagem\nNick Fury - V2\nNicholas Joseph Fury\nHerói\n3 / 1\n{AD},{GE}\nS.H.I.E.L.D.\nDurante sua Fase de Preparação, uma vez por turno, você pode escolher um personagem com a afiliação S.H.I.E.L.D. que você controla. Se o fizer, aquele personagem pode usar a ação Investida de Comandos até o final do turno.\nAção: Investida de Comandos\n{1} - Ação Imprevista - {AD}\nInvestida de Comandos causa 1 ponto de dano no alvo. Este personagem pode usar esta ação outra vez neste turno.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_040",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_040.png",
+    "data": "Personagem\nO Russo - V1\nIvan Dragovsky\nVilão\n4 / 2\n{SF}\nInimigos do Justiceiro\nAção: Luta Brutal\n{1} - Ação Normal - {SF}\nEscolha uma opção, (A) Luta Brutal causa 3 pontos de dano no personagem alvo herói; (B) Luta Brutal causa 2 pontos de dano no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_041",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_041.png",
+    "data": "Personagem\nSelene - V1\nSelene Gallio\nVilão\n4 / 1\n{MA},{TC},{TE}\nIrmandade de Mutantes/Clube do Inferno\nQuando este personagem entrar em cena, até o final do turno, você pode colocar em cena um personagem com o mesmo alter ego de um outro personagem com a afiliação Irmandade de Mutantes ou Clube do Inferno que você controla.\nAção: Vampira Psíquica\n{1} - Ação de Antecipar - {TE}\nCarregue um card neste personagem. Se o card carregado for um card de habilidade, Vampira Psíquica causa 2 pontos de dano no personagem alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_042",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_042.png",
+    "data": "Personagem\nSoldado H.I.D.R.A. - V2\nN/A\nVilão\n1 / 1\n{AD}\nH.I.D.R.A.\nPelotão.\nAção: Atentado Inesperado\n{1} - Ação Imprevista - {AD}\nAtentado Inesperado causa 1 ponto de dano no alvo. As ações chamadas Tática Suicida de personagens chamados Soldado H.I.D.R.A. que você controla tornam-se ações imprevistas até o final do turno.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_043",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_043.png",
+    "data": "Personagem\nTigresa - V1\nGreer Grant Nelson\nHerói\n4 / 1\n{AG},{LA}\nVingadores/Novos Guerreiros\nEste personagem não pode ser alvo da primeira ação com alvo que for usada por um oponente em cada turno.\nAção: Garras de Gato\n{1} - Ação Normal - {LA}\nGarras de Gato causa 1 ponto de dano penetrante no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_044",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_044.png",
+    "data": "Personagem\nToxina - V1\nEddie Brock\nVilão\n5 / 1\n{EL},{LA},{RE}\nSexteto Selvagem\nAção: Lâminas Tóxicas\n{1} - Ação de Antecipar - {LA}\nLâminas Tóxicas causa 1 ponto de dano penetrante no alvo. Este personagem pode usar esta ação outra vez neste turno.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_045",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_045.png",
+    "data": "Personagem\nTriatlo - V1\nDelroy Garrett Jr.\nHerói\n3 / 1\n{AG}\nVingadores\nAção: Verdadeiro ou Falso\n{1} - Ação de Antecipar - {AG}\nEscolha uma opção, (A) Verdadeiro ou Falso causa 2 pontos de dano no personagem alvo com o mesmo alter ego de outro personagem (personagens com alter ego N/A não têm alter ego); (B) Verdadeiro ou Falso causa 1 ponto de dano no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_046",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_046.png",
+    "data": "Personagem\nUltron-1 - V1\nUltron\nN/A\n2 / 1\n{GE}\nN/A\nClone.\nAção: Genialidade Robótica\n{2} - Ação Imprevista - {GE}\nCarregue um card de seus recursos neste personagem: Descarregue um card deste personagem. Se o card descarregado for um card de personagem com o alter ego Ultron ou um card de suporte, coloque aquele card em sua mão ao invés de colocá-lo em seus recursos.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_047",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_047.png",
+    "data": "Personagem\nUltron-61112 - V1\nUltron\nVilão\n5 / 3\n{EL},{GE},{VO}\nMestres do Terror/Falange\nClone.\nDurante sua Fase de Preparação, uma vez por turno, você pode procurar em seu deck por um card de personagem com alter ego Ultron. Se o fizer, revele aquele card, carregue-o em um personagem que você controla, descarregue um card daquele personagem e embaralhe o seu deck.\nAção: Implantes Neurais\n{1} - Ação Imprevista - {GE}\nO personagem alvo ganha o alter ego Ultron até o final do turno. As ações de dano que personagens com alter ego Ultron que você controla usarem neste turno causam +1 ponto de dano a cada um dos seus alvos.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_048",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_048.png",
+    "data": "Personagem\nVampira - V2\nAnna Marie Raven\nHerói\n4 / 2\nVingadores/X-Men\nEste personagem ganha os poderes dos cards de habilidade que estiver carregando.\nAção: Drenar Poder\n{1} - Ação de Antecipar/Ação Imprevista - N/A\nEscolha um poder. O personagem alvo perde aquele poder até o final do turno. Você pode carregar um card de seus recursos neste personagem.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_049",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_049.png",
+    "data": "Personagem\nVictor Mancha - V1\nVictor Mancha\nHerói\n4 / 1\n{AE},{TC}\nFugitivos\nEste personagem ganha Escudo +1 se estiver carregando algum card de suporte.\nAção: Manipulação Eletromagnética\n{1} - Ação Normal - {TC}\nEscolha uma opção, (A) descarregue um card de um personagem; (B) descarregue até dois cards de um suporte.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_050",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_050.png",
+    "data": "Personagem\nVisão - V2\nVisão\nHerói\n4 / 2\n{AE},{GE},{RE},{VO}\nVingadores\nAprimoramento.\nDurante sua Fase de Preparação, uma vez por turno, você pode incapacitar este personagem em {2}. Se o fizer, você pode descarregar um card de um personagem ou suporte cuja afiliação não seja Vingadores.\nAção: Projeção Solar\n{1} - Ação Normal - {AE}\nProjeção Solar causa 3 pontos de dano no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_051",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_051.png",
+    "data": "Personagem\nViúva Negra - V2\nNatalia Alianovna Romanova\nHerói\n3 / 1\n{AG},{AD}\nS.H.I.E.L.D./Vingadores\nAção: Ponto Cego\n{1} - Ação Imprevista - {AD}\nPonto Cego causa 2 pontos de dano no alvo. Capacite este personagem em {1}. Este personagem pode usar mais uma ação chamada Ataque-Surpresa neste turno.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_052",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_052.png",
+    "data": "Personagem\nXamã - V1\nMichael Twoyoungmen\nHerói\n3 / 1\n{MA}\nTropa Alfa\nAção: Instrumentos Ancestrais\n{1} - Ação Normal - {MA}\nClarividência 2 - Instrumentos Ancestrais causa 2 pontos de dano no alvo. Você pode carregar um card que não seja de habilidade em outro personagem com a afiliação Tropa Alfa que você controla.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_053",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_053.png",
+    "data": "Suporte\nConversor Molecular - V1\n2 / 1\nQuando este suporte entrar em cena, descarregue-o e coloque-o em seus recursos a não ser que você incapacite em {1} um personagem com {GE} que você controla.\nDurante sua Fase de Contagem Regressiva, você pode colocar um card do topo de seu deck em seus recursos. Você pode colocar mais um card do topo de seu deck em seus recursos se você controlar um personagem com {GE}.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_054",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_054.png",
+    "data": "Suporte\nExplosivo Escondido - V1\n1 / 0\nDurante sua Fase de Preparação, uma vez por turno, se este suporte estiver em cena desde o início do turno, você pode descarregar um card dele. Se o fizer, ele causa 2 pontos de dano em um personagem.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_055",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_055.png",
+    "data": "Suporte\nLaboratório I.M.A. - V1\n5 / 2\nQuando este suporte entrar em cena, você pode procurar em seu deck por até três cards de personagens de nomes diferentes com a afiliação I.M.A. Se o fizer, revele aqueles cards, coloque-os em sua mão e embaralhe o seu deck.\nOs personagens com a afiliação I.M.A. que você controla ganham Escudo +2.\nLiderar {1} - afiliação I.M.A.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_056",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_056.png",
+    "data": "Suporte\nSensor de Movimento - V1\n2 / 1\nQuando um personagem controlado por um oponente usar uma ação durante a Fase de Preparação daquele jogador, você pode fazer com que este suporte cause 1 ponto de dano penetrante naquele personagem. Se o fizer e se você não controlar nenhum personagem com a afiliação H.I.D.R.A., descarregue um card deste suporte.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_057",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_057.png",
+    "data": "Suporte\nTorre Stark - V1\n5 / 3\nOs personagens com a afiliação Aliados do Homem de Ferro que você controla ganham a afiliação Vingadores.\nUma vez por turno, durante sua Fase de Preparação, você pode descarregar um card deste suporte. Se o fizer, você pode capacitar em {1} ou {2} um personagem com a afiliação Vingadores que você controla.\nSe um personagem com a afiliação Vingadores que você controla usar uma ação durante a Etapa de Ataque de seu turno, você pode incapacitar em {1} um outro personagem com a afiliação Vingadores que você controla. Se o fizer, o personagem incapacitado desta forma causa 2 pontos de dano em um personagem (você só pode incapacitar desta forma um único personagem para cada ação usada).",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_058",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_058.png",
+    "data": "Cenário\nA Era de Ultron - V1\nQuando este cenário entrar em cena, você pode incapacitar em {1} qualquer número de personagens que você controla e cujo alter-ego seja Ultron. Se o fizer, cada um dos personagens que foi incapacitado desta forma causa 1 ponto de dano penetrante em um personagem ou suporte a sua escolha (os danos poderão ser atribuídos a diferentes personagens e suportes).",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_059",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_059.png",
+    "data": "Cenário\nCidade Fantasma - V1\nQuando este cenário entrar em cena, compre um card.\nSe um jogador fosse procurar um ou mais cards no próprio deck, ele deverá comprar aquele mesmo número de cards ao invés disso.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_060",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_060.png",
+    "data": "Cenário\nCombate às Cegas - V1\nQuando este cenário entrar em cena, compre um card.\nToda vez que um personagem usar uma ação, aquela ação ganha Ação Única até o final do turno (aquele personagem não pode usar ações com o mesmo nome da ação usada neste turno).",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_061",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_061.png",
+    "data": "Cenário\nEnergia Estática - V1\nQuando um personagem com {AE} entrar em cena sob seu controle, você pode incapacitar aquele personagem em {1} e colocar este cenário em seus recursos. Se o fizer, aquele personagem causa 2 pontos de dano em um personagem ou suporte controlado por outro jogador.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_062",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_062.png",
+    "data": "Cenário\nÊnfase no Foco - V1\nQuando este cenário entrar em cena, compre um card.\nAs ações que não têm alvo não podem ser usadas.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_063",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_063.png",
+    "data": "Cenário\nEntrega Especial - V1\nQuando este cenário entrar em cena, compre um card.\nQuando um jogador colocar um personagem em cena, aquele jogador pode colocar este cenário nos recursos de seu dono. Se o fizer, aquele jogador compra um card.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_064",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_064.png",
+    "data": "Cenário\nForça Enigma - V1\nQuando este cenário entrar em cena, se você controlar menos personagens que um oponente, você pode comprar um card.\nEnquanto você controlar menos personagens que um oponente, o requisito para você colocar em cena um Personagem-EV chamado Capitão Universo será ´Qualquer personagem´ ao invés de ´Personagem não vilão´.\nAções chamadas Unipoder de personagens que você controla são ações imprevistas.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_065",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_065.png",
+    "data": "Cenário\nGerenciar Informações - V1\nQuando este cenário entrar em cena, compre um card.\nToda vez que um personagem usar uma ação de {GE}, o controlador daquele personagem pode descartar um card. Se o fizer, aquele jogador pode comprar um card.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_066",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_066.png",
+    "data": "Cenário\nImpetuosidade - V1\nAs ações dos personagens que você controla e que estão em cena desde o início do turno tornam-se ações imprevistas.\nSe um personagem que você controla usar uma ação durante sua Fase de Preparação, nocauteie o personagem que usou a ação e então coloque Impetuosidade nos recursos de seu dono (descarregue o personagem nocauteado e o coloque nos prêmios de seus oponentes antes do efeito da ação).",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_067",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_067.png",
+    "data": "Cenário\nLâminas Encantadas - V1\nQuando este cenário entrar em cena, coloque-o em seus recursos a não ser que você incapacite em {1} um personagem com {MA} que você controla.\nOs personagens com {LA} que você controla não podem ser alvos de ações de antecipar ou Imprevistas.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_068",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_068.png",
+    "data": "Cenário\nMovimentos Característicos - V1\nQuando este cenário entrar em cena, compre um card.\nDurante a Fase de Preparação de cada jogador, uma vez por turno, aquele jogador pode carregar um card de personagem de seus recursos em um personagem que ele controla com o mesmo alter ego (ou mesmo nome, se não houver alter ego).",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_069",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_069.png",
+    "data": "Cenário\nParede Holográfica - V1\nEnquanto você controlar algum personagem com a afiliação H.I.D.R.A. ou I.M.A., os jogadores não podem colocar cenários em cena.\nDurante a fase de preparação de cada jogador, aquele jogador pode descartar um card de cenário ou dois outros cards. Se ele o fizer, coloque este cenário nos recursos de seu dono.\nSe um personagem com a afiliação H.I.D.R.A. ou I.M.A. que você controla receber dano, você pode colocar este cenário em seus recursos. Se o fizer, aquele dano torna-se 0.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_070",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_070.png",
+    "data": "Cenário\nResistência Extrema - V1\nQuando este cenário entrar em cena, compre um card.\nToda vez que um personagem com Energia Inicial 6 ou maior receber dano, aquele personagem receberá -1 ponto de dano.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_071",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_071.png",
+    "data": "Habilidade - {AG}\nCeleridade - V1\nAção: Celeridade\nSem Custo - Ação Normal - {AG}\nCeleridade causa 1 ponto de dano no alvo. Capacite este personagem em {1} ou {2}.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_072",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_072.png",
+    "data": "Habilidade - {AG}\nImpossível de se Ver - V1\nAção: Impossível de se Ver\n{0} - Ação de Antecipar/Ação Imprevista - {AG}\nSe esta é a primeira ação usada neste turno, Impossível de se Ver causa 3 pontos de dano no alvo. Se não, Impossível de se Ver causa 1 ponto de dano no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_073",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_073.png",
+    "data": "Habilidade - {AD}\nBelicosidade - V1\nAção: Belicosidade\nSem Custo - Ação Normal - {AD}\nBelicosidade causa 1 ponto de dano penetrante no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_074",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_074.png",
+    "data": "Habilidade - {AD}\nSubmetralhadora - V1\nAção: Submetralhadora\n{1} - Ação Normal - {AD}\nSubmetralhadora causa 1 ponto de dano penetrante no alvo. Este personagem pode usar esta ação outra vez neste turno.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_075",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_075.png",
+    "data": "Habilidade - {AE}\nEnergia Acumulada - V1\nAção: Energia Acumulada\n{1} - Ação Normal - {AE}\nDescarregue X cards de habilidade de {AE} deste personagem: Se este personagem ainda estiver em cena, carregue X cards que não sejam de habilidade nele. Energia Acumulada causa X pontos de dano penetrante no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_076",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_076.png",
+    "data": "Habilidade - {AE}\nPotência - V1\nAção: Potência\nSem Custo - Ação Normal - {AE}\nPotência causa 1 ponto de dano a cada um dos personagens controlados por outro jogador.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_077",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_077.png",
+    "data": "Habilidade - {EL}\nExcentricidade - V1\nAção: Excentricidade\nSem Custo - Ação Normal - {EL}\nO alvo ganha Escudo -1 até o final do turno. Excentricidade causa 2 pontos de dano no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_078",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_078.png",
+    "data": "Habilidade - {EL}\nPrensa Pênsil - V1\nAção: Prensa Pênsil\n{X} - Ação Normal - {EL}\nO alvo ganha Escudo -X até o final do turno. Prensa Pênsil causa duas vezes X pontos de dano no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_079",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_079.png",
+    "data": "Habilidade - {GE}\nCompetência - V1\nAção: Competência\nSem Custo - Ação Normal - {GE}\nCompre 2 cards.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_080",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_080.png",
+    "data": "Habilidade - {GE}\nExplosões no Laboratório - V1\nAção: Explosões no Laboratório\n{1} - Ação de Antecipar - {GE}\nCarregue um card de seus recursos neste personagem, devolva Explosões no Laboratório para sua mão: Coloque um card dos recursos de um jogador na base do deck daquele jogador. Compre um card.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_081",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_081.png",
+    "data": "Habilidade - {LA}\nAgressão Xenófoba - V1\nAção: Agressão Xenófoba\n{1} - Ação Imprevista - {LA}\nAção Única (este personagem não pode usar mais de uma ação chamada Agressão Xenófoba por turno) - Agressão Xenófoba causa 1 ponto de dano penetrante no alvo. Se o alvo for um personagem sem afiliações em comum com este personagem (o personagem que usou esta ação), este personagem pode usar mais uma ação de {LA} que cause dano e tenha como alvo aquele mesmo personagem neste turno.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_082",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_082.png",
+    "data": "Habilidade - {LA}\nViolência - V1\nAção: Violência\nSem Custo - Ação Normal - {LA}\nViolência causa 1 ponto de dano penetrante no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_083",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_083.png",
+    "data": "Habilidade - {MA}\nChamas de Faltine - V1\nSe você revelar este card usando Clarividência, escolha um personagem. Este card causa 1 ponto de dano penetrante naquele personagem. Então coloque este card na base do deck de seu dono (ele não será colocado no topo de seu deck devido à Clarividência).\nAção: Chamas de Faltine\n{1} - Ação de Antecipar - {MA}\nClarividência 2 - Chamas de Faltine causa 1 ponto de dano no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_084",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_084.png",
+    "data": "Habilidade - {MA}\nTranscendência - V1\nAção: Transcendência\nSem Custo - Ação Normal - {MA}\nClarividência 2 - Transcendência causa 2 pontos de dano no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_085",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_085.png",
+    "data": "Habilidade - {MA}\nVentos de Watoomb - V1\nAção: Ventos de Watoomb\n{1} - Ação Normal - {MA}\nClarividência 4 - Ventos de Watoomb causa X pontos de dano no alvo. X é igual ao número de cards revelados nesta ação. Coloque os cards revelados desta forma na base do seu deck. Aqueles cards não serão colocados no topo de seu deck devido à Clarividência.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_086",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_086.png",
+    "data": "Habilidade - {PC}\nCalor Estelar - V1\nAção: Calor Estelar\n{X} - Ação Normal - {PC}\nEnergia Cósmica X - Calor Estelar causa X+2 pontos de dano a cada um de até X alvos diferentes.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_087",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_087.png",
+    "data": "Habilidade - {PC}\nEstrela Cadente - V1\nAção: Estrela Cadente\n{1} - Ação de Antecipar - {PC}\nEnergia Cósmica 2 - Estrela Cadente causa 2 pontos de dano penetrante no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_088",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_088.png",
+    "data": "Habilidade - {PC}\nPlenitude - V1\nAção: Plenitude\nSem Custo - Ação Normal - {PC}\nEnergia Cósmica 1 - Plenitude causa 3 pontos de dano no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_089",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_089.png",
+    "data": "Habilidade - {PC}\nRefração Cósmica - V1\nQuando este card for colocado de seus recursos na base de seu deck para pagar o custo de Energia Cósmica de uma ação, ele causa 2 pontos de dano em um personagem ou suporte.\nAção: Refração Cósmica\n{1} - Ação Normal - {PC}\nEnergia Cósmica 1 - Refração Cósmica causa 3 pontos de dano no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_090",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_090.png",
+    "data": "Habilidade - {RE}\nFator de Cura - V1\nSe este personagem tiver {RE}, durante sua Fase de Preparação, uma vez por turno, você pode escolher um card de habilidade de {RE} de seus recursos e carregá-lo neste personagem. Se o fizer, incapacite este personagem em {1}.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_091",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_091.png",
+    "data": "Habilidade - {RE}\nRenovação - V1\nAção: Renovação\nSem Custo - Ação Normal - {RE}\nCarregue até três cards de seus recursos neste personagem. Descarregue Renovação.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_092",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_092.png",
+    "data": "Habilidade - {SF}\nBrutalidade - V1\nAção: Brutalidade\nSem Custo - Ação Normal - {SF}\nBrutalidade causa 3 pontos de dano no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_093",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_093.png",
+    "data": "Habilidade - {SF}\nForça Excessiva - V1\nAção: Força Excessiva\n{1} - Ação Normal - {SF}\nCarregue um card de seus recursos neste personagem. Descarregue Força Excessiva: Força Excessiva causa 5 pontos de dano no alvo.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_094",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_094.png",
+    "data": "Habilidade - {TC}\nAssombro - V1\nAção: Assombro\nSem Custo - Ação Normal - {TC}\nDescarregue um card que estiver sendo carregado por um personagem ou suporte controlado por outro jogador e que esteja carregando mais de um card.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_095",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_095.png",
+    "data": "Habilidade - {TC}\nEvolução Entrópica - V1\nAção: Evolução Entrópica\n{1} - Ação de Antecipar/Ação Imprevista - {TC}\nEscolha dois personagens controlados por um mesmo jogador. Permute um dos cards que o primeiro personagem estiver carregando por um dos cards que o segundo personagem estiver carregando.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_096",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_096.png",
+    "data": "Habilidade - {TE}\nAdaga Psíquica - V1\nQuando este card for carregado de seus recursos em um personagem com {TE} que você controla, você pode escolher outro personagem em cena. Se o fizer, esta habilidade causa 1 ponto de dano no personagem escolhido (o card Adaga Psíquica causa o dano, não o personagem que o estiver carregando).\nAção: Adaga Psíquica\n{1} - Ação Normal - {TE}\nIncapacite o personagem alvo em {1}. Se aquele personagem tiver sofrido dano neste turno, Adaga Psíquica causa 2 pontos de dano penetrante naquele personagem.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_097",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_097.png",
+    "data": "Habilidade - {TE}\nDomínio - V1\nAção: Domínio\nSem Custo - Ação Normal - {TE}\nIncapacite o personagem alvo em {1} ou {2}. Aquele personagem ganha Escudo -1 até o final do turno.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_098",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_098.png",
+    "data": "Habilidade - {VO}\nAscendência - V1\nAção: Ascendência\nSem Custo - Ação Normal - {VO}\nAscendência causa 1 ponto de dano no alvo. Você pode descartar até dois cards. Se o fizer, compre aquele mesmo número de cards.",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsiv_099",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/011_bsiv/BSIV_099.png",
+    "data": "Habilidade - {VO}\nZiguezague - V1\nSe este personagem tiver {VO} e fosse receber dano durante a Fase de Preparação do turno de outro jogador, você pode incapacitar este personagem em {1}. Se o fizer, todo o dano que este personagem receber durante aquela Fase de Preparação torna-se 0.\nAção: Ziguezague\n{1} - Ação Normal - {VO}\nZiguezague causa 2 pontos de dano no alvo.\n\n",
+    "collection": "bsiv"
+  },
+  {
+    "uuid": "bsos_001",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_001.png",
+    "data": "Personagem - EV\nSupra-Sentinela - V1\nSentinela\nN/A\n3 / 1 (+2)\nSentinelas\nQuando Supra-Sentinela entrar em cena, você pode procurar em seu deck ou recursos por um card de cenário chamado Nano-Sentinelas. Se o fizer, revele aquele card, coloque-o em sua mão e embaralhe o seu deck se tiver procurado ali.\nPelotão.\nAção: Diretriz de Eliminação\n{1} - Ação Normal - N/A\nEscolha uma opção, (A) Diretriz de Eliminação causa 5 pontos de dano no personagem alvo com a afiliação X-Men ou Irmandade de Mutantes; (B) Diretriz de Eliminação causa 2 pontos de dano no alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_002",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_002.png",
+    "data": "Personagem\nAgente Coulson - V1\nPhillip Coulson\nHerói\n2 / 1\n{AD}\nS.H.I.E.L.D.\nEnquanto estiver em seu deck ou recursos, este card também conta como se fosse um card de personagem chamado Agente S.H.I.E.L.D.\nDurante sua Fase de Preparação, uma vez por turno, você pode carregar um card de habilidade de {AD} de seus recursos em um personagem chamado Agente S.H.I.E.L.D. que você controla.\nAção: Coordenar Disparos\n{1} - Ação de Antecipar - {AD}\nCoordenar Disparos causa 1 ponto de dano no alvo. A próxima ação usada por um personagem chamado Agente S.H.I.E.L.D. que você controla neste turno causa +1 ponto de dano em um de seus alvos.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_003",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_003.png",
+    "data": "Personagem\nAlfazema - V1\nAlfazema\nN/A\n5 / 2\n{AG},{LA}\nFugitivos\nQuando este personagem entrar em cena, você pode procurar em seu deck por um card de personagem com o alter ego Gertrude Yorkes. Se o fizer, revele aquele card, coloque-o em sua mão e embaralhe o seu deck.\nAção: Garras de Dinossauro\n{1} - Ação Normal - {LA}\nGarras de Dinossauro causa 1 ponto de dano penetrante no alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_004",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_004.png",
+    "data": "Personagem\nAmadeus Cho - V1\nAmadeus Cho\nN/A\n1 / 0\n{GE}\nRenegados/Illuminati\nVocê pode comprar um card extra durante sua própria Fase de Compra.\nO número máximo de cards em sua mão durante a Fase de Ajuste aumenta em um card.\nO número máximo de cards na mão dos outros jogadores durante suas respectivas Fases de Ajuste diminui em um card.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_005",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_005.png",
+    "data": "Personagem\nApocalipse - V1\nEn Sabah Nur\nVilão\n7 / 3\n{EL},{GE},{RE},{SF}\nCavaleiros do Apocalipse\nOs personagens com afiliações X-Men e Irmandade de Mutantes que você controla perdem suas afiliações e ganham a afiliação Cavaleiros do Apocalipse.\nSe este personagem fosse receber dano, ao invés disso você pode redirecionar aquele dano para um outro personagem com a afiliação Cavaleiros do Apocalipse que você controla.\nAção: Sacrifício Genético\n{X} - Ação Imprevista - N/A\nDescarregue X cards de um personagem com a afiliação Cavaleiros do Apocalipse que você controla: Sacrifício Genético causa X+1 pontos de dano penetrante distribuídos da forma como você escolher entre até X+1 alvos.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_006",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_006.png",
+    "data": "Personagem\nArmadura - V1\nHisako Ichiki\nHerói\n3 / 1\n{SF}\nX-Men\nEste personagem ganha Escudo +X. X é igual ao número de cards que este personagem estiver carregando.\nAção: Punho Psiônico\n{1} - Ação Normal - {SF}\nPunho Psiônico causa X+1 pontos de dano no alvo. X é igual ao número de cards que este personagem estiver carregando.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_007",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_007.png",
+    "data": "Personagem\nArqueiro - V1\nN/A\nVilão\n3 / 1\n{AD}\nH.I.D.R.A.\nEnquanto estiver em seu deck ou recursos, este card também conta como se fosse um card de personagem chamado Soldado H.I.D.R.A.\nAção: Flecha Dupla\n{1} - Ação Normal - {AD}\nFlecha Dupla causa 1 ponto de dano em um alvo e 1 ponto de dano penetrante em outro alvo diferente.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_008",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_008.png",
+    "data": "Personagem\nBatroc - V1\nGeorges Batroc\nVilão\n3 / 1\n{AG}\nMestres do Terror\nQuando este personagem for alvo de uma ação pela primeira vez em um turno, ele causa 1 ponto de dano no personagem que usou aquela ação.\nAção: Técnicas de Savate\n{1} - Ação de Antecipar - {AG}\nTécnicas de Savate causa 1 ponto de dano no alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_009",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_009.png",
+    "data": "Personagem\nCapitão América - V3\nSteve Rogers\nHerói\n4 / 1\n{AG},{AD}\nVingadores/Invasores\nDurante sua Fase de Preparação, uma vez por turno, você pode procurar em seu deck ou recursos por um card de personagem com o alter ego Steve Rogers. Se o fizer, revele aquele card, carregue-o neste personagem, descarregue um card deste personagem e embaralhe o seu deck se tiver procurado ali.\nAção: Avante, Vingadores\n{0} - Ação de Antecipar/Ação Imprevista - N/A\nAção Única (este personagem não pode usar mais de uma ação chamada Avante, Vingadores! por turno) - Procure em seu deck por um card de cenário chamado Avante, Vingadores!, coloque-o em cena e embaralhe o seu deck. Este personagem pode usar mais uma ação neste turno.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_010",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_010.png",
+    "data": "Personagem\nCassandra Nova - V1\nCassandra Nova\nVilão\n3 / 1\n{GE},{RE},{TC},{TE}\nClube do Inferno\nQuando este personagem entrar em cena, escolha um personagem controlado por outro jogador.\nO personagem escolhido não pode usar ações.\nNo inicio do turno do controlador do personagem escolhido, você pode fazer com que o personagem escolhido cause 2 pontos de dano em um outro personagem (você escolhe o personagem que receberá o dano).\nAção: Ataque Mummudrai\n{1} - Ação Normal - {TC}\nDescarregue um card de um personagem.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_011",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_011.png",
+    "data": "Personagem\nDiablo - V1\nEsteban De Ablo\nVilão\n3 / 1\n{MA},{TE}\nMestres do Terror\nAção: Maestria Alquímica\n{1} - Ação Normal - {MA}\nClarividência 2 - O personagem alvo ganha Escudo -3 até o final do turno.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_012",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_012.png",
+    "data": "Personagem\nDup - V1\nDup\nHerói\n3 / 3\nX-Men\nQuando este personagem usar uma ação, aquela ação ganha Ação Única até o final do turno (este personagem não pode usar mais ações com o nome daquela ação durante este turno).\nAção: XXXX X\n{0} - Ação de Antecipar/Ação Imprevista - N/A\nO oponente alvo escolhe um card de habilidade ou de personagem que este personagem estiver carregando: Até o final do turno este personagem ganha os poderes e pode usar as ações dos cards de habilidade e de personagem que estiver carregando, excetuando o card escolhido pelo oponente. Este personagem pode usar mais uma ação neste turno.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_013",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_013.png",
+    "data": "Personagem\nEncantor - V1\nAmora\nVilão\n5 / 2\n{MA},{TC},{TE}\nAsgardianos/Mestres do Terror\nQuando este personagem entrar em cena, escolha um personagem controlado por outro jogador.\nEste personagem não poderá ser alvo das ações do personagem escolhido.\nAção: Feitiço de Controle\n{1} - Ação Normal - {MA}\nClarividência 2 - Incapacite o alvo em {1} para cada card de personagem revelado nesta ação.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_014",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_014.png",
+    "data": "Personagem\nEsperança - V1\nHope Summers\nHerói\n4 / 1\n{AD},{VO}\nX-Men/X-Force\nEste personagem ganha os poderes dos outros personagens em cena.\nTodo o dano que este personagem receberia de ações de antecipar e Imprevistas torna-se 0 enquanto você controlar um personagem chamado Cable\nAção: Surto de Poder\n{1} - Ação de Antecipar - N/A\nSurto de Poder causa X pontos de dano no alvo. Este personagem ganha Escudo +X até o final do turno. X é igual ao número de poderes do alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_015",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_015.png",
+    "data": "Personagem\nFlamejante - V1\nFlamejante\nN/A\n4 / 1\n{AE},{PC},{VO}\nImpério Shiar\nO dano que este personagem receber de ações de {AE} torna-se 0.\nAção: Plasma incendiário\n{1} - Ação Normal - {AE}\nPlasma incendiário causa 2 pontos de dano no alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_016",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_016.png",
+    "data": "Personagem\nForça Tática - V1\nN/A\nVilão\n4 / 2\n{AD},{AE},{SF},{VO}\nH.I.D.R.A.\nEnquanto estiver em seu deck ou recursos, este card também conta como se fosse um card de personagem chamado Soldado H.I.D.R.A.\nAção: Pulso Eletromagnético\n{2} - Ação Normal - {AE}\nPulso Eletromagnético causa 4 pontos de dano no alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_017",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_017.png",
+    "data": "Personagem\nGertrude Yorkes - V1\nGertrude Yorkes\nHerói\n1 / 0\nFugitivos\nEste personagem não pode ser alvo de ações de antecipar ou Imprevistas enquanto você controlar um personagem chamado Alfazema.\nAs ações chamadas Garras de Dinossauro de personagens que você controla são ações de antecipar e Imprevistas.\nAção: Ligação Mental\n{0} - Ação de Antecipar/Ação Imprevista - N/A\nAté o final do turno, toda vez que um personagem que você controla usar a ação Garra de Dinossauro, aquele personagem poderá usar aquela ação outra vez neste turno.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_018",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_018.png",
+    "data": "Personagem\nGolias - V1\nClinton Francis Barton\nHerói\n5 / 3\n{SF}\nVingadores\nDurante sua Fase de Preparação, uma vez por turno, você pode descartar um card. Se o fizer, capacite este personagem em {1}.\nEnquanto estiver no estágio {0}, este personagem não pode usar ações nem ser alvo de ações de antecipar ou Imprevistas.\nAção: Pisotear\n{X} - Ação Normal - {SF}\nPisotear causa duas vezes X pontos de dano no alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_019",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_019.png",
+    "data": "Personagem\nGroot - V2\nGroot\nHerói\n2 / 1\n{EL},{RE}\nGuardiões da Galáxia\nDurante sua Fase de Preparação, se este card estiver em seus recursos, você pode carregá-lo em um personagem chamado Groot que você controla.\nAção: Casca de Madeira\n{1} - Ação Normal - {EL}\nO alvo de ganha Escudo -1 até o final do turno. Casca de Madeira causa 1 ponto de dano no alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_020",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_020.png",
+    "data": "Personagem\nHomem Gorila - V1\nM´Baku\nVilão\n5 / 2\n{AD},{SF}\nMestres do Terror\nAção: Fúria da Selva\n{1} - Ação Normal - {SF}\nEscolha uma opção, (A) Fúria da Selva causa 5 pontos de dano no personagem alvo que sofreu dano de uma ação de outro personagem com a afiliação Mestres do Terror neste turno; (B) Fúria da Selva causa 3 pontos de dano no personagem alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_021",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_021.png",
+    "data": "Personagem\nHomem-Aranha - V3\nPeter Parker\nHerói\n4 / 2\n{AG},{EL},{GE},{SF}\nQuarteto Fantástico/Vingadores\nDurante sua Fase de Preparação, uma vez por turno, se você controlar outro personagem com alguma afiliação em comum com este personagem, você pode capacitar este personagem em {1}.\nAção: Casulo de Teias\n{1} - Ação de Antecipar/Ação Imprevista - {EL}\nEscolha uma opção, (A) incapacite o personagem alvo em {1}; (B) o alvo ganha Escudo -3 até o final do turno.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_022",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_022.png",
+    "data": "Personagem\nHomem-Aranha - V1\nMiguel O´Hara\nHerói\n4 / 1\n{AG},{EL},{LA}\nExilados\nAção: Garras Retráteis\n{1} - Ação de Antecipar/Ação Imprevista - {LA}\nGarras Retráteis causa 1 ponto de dano no personagem alvo. Toda vez que aquele personagem fosse causar dano neste personagem (o personagem que usou esta ação) neste turno, aquele dano torna-se 0.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_023",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_023.png",
+    "data": "Personagem\nHomem-Formiga - V1\nScott Lang\nHerói\n3 / 2\n{GE},{VO}\nVingadores/Fundação Futuro\nQuando um personagem controlado por outro jogador usar uma ação Imprevista, se este card estiver em sua mão, você pode colocá-lo em cena. Quando este personagem entrar em cena desta forma, aquela ação não tem efeito e ações com o mesmo nome que aquela não podem ser usadas neste turno.\nEste personagem não pode usar a ação Crescimento Repentino a não ser que ele esteja no estágio {0} de capacitação.\nAção: Crescimento Repentino\n{0} - Ação de Antecipar - N/A\nCrescimento Repentino causa 3 pontos de dano no alvo. Capacite este personagem em {1} ou {2}.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_024",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_024.png",
+    "data": "Personagem\nHomem-Molecular - V1\nOwen Reece\nVilão\n4 / 2\n{PC},{TC}\nN/A\nSe um jogador colocar um cenário em cena, aquele jogador deve escolher um oponente. O oponente escolhido pode escolher e descarregar um card que estiver sendo carregado por um personagem.\nAção: Projeção Molecular\n{1} - Ação de Antecipar/Ação Imprevista - {TC}\nEscolha uma opção, (A) descarregue um card de um personagem ou suporte; (B) coloque um cenário em cena nos recursos de seu dono.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_025",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_025.png",
+    "data": "Personagem\nInvasor Badoon - V1\nN/A\nVilão\n2 / 1\n{AD},{AE}\nIrmandade Badoon\nPelotão.\nAção: Projeteis Concussivos\n{1} - Ação Normal - {AD}\nProjeteis Concussivos causa X+2 pontos de dano no alvo. X é igual ao número de outros personagens chamados Invasor Badoon que você controla.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_026",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_026.png",
+    "data": "Personagem\nJaqueta Amarela - V1\nHank Pym\nHerói\n3 / 2\n{GE},{SF},{VO}\nVingadores/Defensores\nQuando um personagem controlado por outro jogador usar uma ação no turno em que ele entrou em cena, se este card estiver em sua mão, você pode colocá-lo em cena. Quando este personagem entrar em cena desta forma, aquela ação não tem efeito e ações com o mesmo nome que aquela não podem ser usadas neste turno.\nEste personagem perde {SF} e não pode ser alvo de ações imprevistas enquanto não estiver no estágio {2} de capacitação.\nAção: Impacto Variável\n{0} - Ação Normal - N/A\nImpacto Variável causa X+1 pontos de dano no alvo. X é o estágio de capacitação em que este personagem (o personagem que usou esta ação) se encontra.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_027",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_027.png",
+    "data": "Personagem\nKid Ômega - V1\nQuentin Quire\nHerói/Vilão\n3 / 1\n{GE},{TC},{TE}\nX-Men/Clube do Inferno\nAção: Espingarda Psíquica\n{1} - Ação Normal - {TE}\nEspingarda Psíquica causa 1 ponto de dano no personagem alvo. Incapacite aquele personagem em {1} ou {2}.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_028",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_028.png",
+    "data": "Personagem\nKlara Prast - V1\nKlara Prast\nHerói\n1 / 0\n{EL}\nFugitivos\nAção: Falando com as Plantas\n{1} - Ação de Antecipar - {EL}\nCarregue um card de habilidade de seus recursos em um personagem com a afiliação Fugitivos. Se o card carregado desta forma for uma habilidade de {EL}, você pode descarregar um card de habilidade de um personagem sem a afiliação Fugitivos.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_029",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_029.png",
+    "data": "Personagem\nLegião - V1\nDavid Charles Haller\nN/A\n5 / 2\nN/A\nEste personagem ganha os poderes e pode usar ações dos cards de personagem que ele estiver carregando.\nQuando este personagem usar uma ação, aquela ação ganha Ação Única até o final do turno (este personagem não pode usar mais ações com o nome daquela ação durante este turno).\nAção: Infinitas Personalidades\n{1} - Ação de Antecipar - N/A\nCarregue um card de personagem de seus recursos neste personagem.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_030",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_030.png",
+    "data": "Personagem\nLince Negra - V1\nKatherine Pryde\nHerói\n3 / 2\n{GE},{VO}\nX-Men/Excalibur\nQuando este personagem entrar em cena, você pode procurar em seu deck por um card de personagem chamado Lockheed. Se o fizer, revele aquele card, coloque-o em sua mão e embaralhe o seu deck.\nToda vez que este personagem fosse receber dano de uma fonte, aquela fonte causará aquela quantidade de dano -X. X é igual ao número de suportes controlados pelos outros jogadores.\nAção: Vai, Lockheed!\n{1} - Ação de Antecipar - N/A\nVai, Lockheed! causa 1 ponto de dano no alvo. Ações chamadas Fogo do Dragão de personagens que você controla tornam-se ações de antecipar até o final do turno.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_031",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_031.png",
+    "data": "Personagem\nLockheed - V1\nLockheed\nN/A\n2 / 2\n{AE},{VO}\nX-Men/Excalibur\nEste personagem não pode ser alvo de ações de {TE}.\nEste personagem pode usar ações chamadas Fogo do Dragão mais de uma vez por turno enquanto você controlar um personagem com o alter ego Katherine Pryde.\nAção: Fogo do Dragão\n{1} - Ação Normal - {AE}\nFogo do Dragão causa 2 pontos de dano no alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_032",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_032.png",
+    "data": "Personagem\nMago - V1\nBentley Wittman\nVilão\n3 / 1\n{GE},{TE},{VO}\nQuarteto Terrível/Intelligencia\nAção: Iludir\n{1} - Ação de Antecipar/Ação Imprevista - {TE}\nSe a próxima ação que o personagem alvo usar neste turno tiver um ou mais alvos, você escolhe os alvos para aquela ação.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_033",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_033.png",
+    "data": "Personagem\nMancha Solar - V1\nRoberto da Costa\nHerói\n4 / 1\n{PC},{VO}\nX-Men/Vingadores\nEste personagem ganha Escudo +1 enquanto houver algum personagem com {AE} em cena.\nAção: Estado Energizado\n{1} - Ação Normal - {PC}\nEnergia Cósmica 1 - Se houver algum personagem com {AE} em cena, Estado Energizado causa 3 pontos de dano no alvo. Se não, Estado Energizado causa 2 pontos de dano no alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_034",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_034.png",
+    "data": "Personagem\nMantis - V1\nMantis\nHerói\n4 / 1\n{AG},{TE}\nVingadores/Guardiões da Galáxia\nCards não podem ser descarregados deste personagem pelo efeito de ações de {TC}.\nAção: Ensinamentos de Pama\n{1} - Ação Normal - {AG}\nEnsinamentos de Pama causa 2 pontos de dano no alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_035",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_035.png",
+    "data": "Personagem\nMarreta - V1\nN/A\nVilão\n6 / 2\n{AE},{SF},{VO}\nH.I.D.R.A.\nEnquanto estiver em seu deck ou recursos, este card também conta como se fosse um card de personagem chamado Soldado H.I.D.R.A.\nO dano que este personagem receber de ações de {AE} torna-se 0.\nAção: Marretada Dupla\n{1} - Ação Normal - {SF}\nMarretada Dupla causa 2 pontos de dano em cada um de dois alvos diferentes.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_036",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_036.png",
+    "data": "Personagem\nMary LeBow - V1\nMary LeBow\nN/A\n3 / 1\n{MA}\nN/A\nAção: Tecnomancia\n{1} - Ação de Antecipar - {MA}\nClarividência 2 - Escolha uma opção, (A) Tecnomancia causa 2 pontos de dano no personagem alvo com {MA}; (B) Tecnomancia causa 1 ponto de dano no alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_037",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_037.png",
+    "data": "Personagem\nMilitante - V1\nN/A\nVilão\n4 / 2\n{AG},{AD}\nH.I.D.R.A.\nEnquanto estiver em seu deck ou recursos, este card também conta como se fosse um card de personagem chamado Soldado H.I.D.R.A.\nA primeira ação que um oponente usar durante a Fase de Preparação daquele jogador e que tiver como alvo um personagem com a afiliação H.I.D.R.A. que você controla não tem efeito.\nAção: Ataque de Iniciativa\n{1} - Ação de Antecipar/Ação Imprevista - {AG}\nAtaque de Iniciativa causa 1 ponto de dano no alvo. Este personagem ganha Escudo +2 até o final do turno.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_038",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_038.png",
+    "data": "Personagem\nMotoqueiro Fantasma - V1\nDaniel Ketch\nHerói\n5 / 2\n{EL},{MA},{RE},{SF}\nQuarteto Fantástico\nReviver.\nAção: Correntes Infernais\n{X} - Ação Normal - {MA}\nClarividência X - Correntes Infernais causa 3 pontos de dano a cada um de até X alvos diferentes.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_039",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_039.png",
+    "data": "Personagem\nNova - V1\nRichard Rider\nHerói\n4 / 2\n{PC},{VO}\nTropa Nova/Novos Guerreiros\nEnquanto este personagem estiver carregando algum card de habilidade de {PC}, ele ganha Escudo +2.\nAção: Poder Nova\n{0} - Ação Normal - {PC}\nEnergia Cósmica 2 - Poder Nova causa 3 pontos de dano no alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_040",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_040.png",
+    "data": "Personagem\nRachel Summers - V1\nRachel Summers\nHerói\n4 / 1\n{TC},{TE},{VO}\nX-Men/Excalibur\nAção: Cronoataque\n{1} - Ação Normal - {TC}\nDescarregue um card de um personagem. Todo o dano que seria causado por aquele personagem a este personagem (o personagem que usou esta ação) durante a Fase de Preparação do próximo turno torna-se 0.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_041",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_041.png",
+    "data": "Personagem\nSamurai De Prata - V1\nKenuichio Harada\nVilão\n4 / 1\n{AE},{LA}\nH.I.D.R.A.\nAção: Espada de Táquions\n{2} - Ação Normal - {LA}\nEspada de Táquions causa 3 pontos de dano penetrante no alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_042",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_042.png",
+    "data": "Personagem\nShocker - V1\nHerman Schultz\nVilão\n4 / 1\n{AE},{TC}\nSexteto Sinistro/Mestres do Terror\nAção: Pulso Vibratório\n{1} - Ação de Antecipar - {AE}\nPulso Vibratório causa 1 ponto de dano no personagem alvo. Este personagem (o personagem que usou esta ação) não pode ser alvo de ações do alvo neste turno.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_043",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_043.png",
+    "data": "Personagem\nShuma-Gorath - V1\nShuma-Gorath\nVilão\n7 / 3\n{EL},{MA},{RE},{TE}\nN/A\nPelotão.\nEste personagem não pode ser alvo de ações chamadas Tentáculos da Escuridão.\nAção: Tentáculos da Escuridão\n{1} - Ação de Antecipar - {EL}\nTentáculos da Escuridão causa X pontos de dano a cada um de até X alvos. Incapacite cada um dos alvos em {1}. X é igual a 2 se houver mais de um personagem com o alter ego Shuma-Gorath em cena, caso contrário, X é igual a 1.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_044",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_044.png",
+    "data": "Personagem\nSilver Sable - V1\nSilver Sablinova\nHerói\n3 / 1\n{AD},{LA}\nHeróis de Aluguel\nQuando este personagem entrar em cena, escolha um personagem controlado por outro jogador.\nToda vez que uma ação deste personagem fosse causar dano no personagem escolhido, aquele dano torna-se penetrante.\nAção: Caçadora Implacável\n{1} - Ação Normal - {AD}\nCaçadora Implacável causa 2 pontos de dano no alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_045",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_045.png",
+    "data": "Personagem\nSoprano - V1\nMelissa Joan Gold\nHerói/Vilão\n3 / 1\n{VO}\nThunderbolts\nQuando este personagem entrar em cena, escolha uma afiliação que não seja Thunderbolts.\nToda vez que uma ação de um personagem com a afiliação Thunderbolts que você controla fosse causar dano a um personagem com a afiliação escolhida, ela causará aquela quantidade de dano +1.\nAção: Som Sólido\n{1} - Ação de Antecipar - N/A\nSom Sólido causa 1 ponto de dano no alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_046",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_046.png",
+    "data": "Personagem\nSr. Tira-Teima - V1\nBruce Banner\nHerói\n6 / 3\n{AD},{RE},{SF}\nQuarteto Fantástico\nAção: Pra Cima Deles\n{1} - Ação Normal - {SF}\nDescarregue um card de um personagem com a afiliação Quarteto Fantástico que você controla: Pra cima deles causa 4 pontos de dano no alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_047",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_047.png",
+    "data": "Personagem\nTecnoespião I.M.A. - V1\nN/A\nVilão\n1 / 0\n{GE}\nI.M.A.\nPelotão.\nEste personagem não pode ser alvo de ações de personagens que estejam carregando cards de habilidade.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_048",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_048.png",
+    "data": "Personagem\nTentáculos Da Escuridão - V1\nN/A\nVilão\n3 / 1\n{EL},{RE}\nN/A\nPelotão.\nEste personagem não pode ser alvo de ações chamadas Tentáculos da Escuridão.\nAção: Tentáculos da Escuridão\n{2} - Ação de Antecipar - {EL}\nTentáculos da Escuridão causa X pontos de dano a cada um de até X alvos. Incapacite cada um dos alvos em {1}. X é igual a 2 se houver mais de um personagem com o alter ego Shuma-Gorath em cena, caso contrário, X é igual a 1.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_049",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_049.png",
+    "data": "Personagem\nTurbo - V1\nMichiko Musashi\nHerói\n3 / 2\n{AE},{VO}\nNovos Guerreiros\nAção: Turbo-Soco\n{1} - Ação Normal - {VO}\nTurbo-Soco causa 2 pontos de dano no alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_050",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_050.png",
+    "data": "Personagem\nVigilante Kree - V1\nN/A\nVilão\n7 / 2\n{PC},{SF}\nKree\nPode haver qualquer número de personagem chamados Vigilante Kree em cena.\nQuando este personagem entrar em cena, escolha um personagem controlado por um oponente.\nToda vez que uma ação deste personagem fosse causar dano a um personagem com o mesmo nome ou alter ego que o personagem escolhido, ela causará aquela quantidade de dano +1.\nAção: Diretiva Delta-Nove\n{1} - Ação Normal - {SF}\nDiretiva Delta-Nove causa 3 pontos de dano no alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_051",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_051.png",
+    "data": "Personagem\nWolverine - V3\nJames Howlett\nHerói\n4 / 1\n{AG},{LA},{RE}\nQuarteto Fantástico\nAção: Snikt!\n{1} - Ação Normal - {LA}\nSnikt! causa 2 pontos de dano penetrante no alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_052",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_052.png",
+    "data": "Personagem\nWong - V1\nWong\nHerói\n3 / 1\n{AG},{MA}\nAliados do Dr. Estranho\nAção: Kamar-Taj\n{1} - Ação de Antecipar - {AG}\nSe esta ação for usada durante a Etapa de Ataque, Kamar-Taj causa 2 pontos de dano no alvo. Se não, Kamar-Taj causa 1 ponto de dano no alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_053",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_053.png",
+    "data": "Suporte\nCâmara Neutralizadora - V1\n3 / 2\nQuando este suporte entrar em cena, escolha um personagem controlado por outro jogador.\nOs textos permanentes do personagem escolhido não têm efeito (isso inclui os textos permanentes dos cards que ele estiver carregando) e as ações que ele usar ganham Ação Única até o final do turno (o personagem não pode usar mais ações com o nome das ações usadas por ele durante este turno).",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_054",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_054.png",
+    "data": "Suporte\nCampo Magnético - V1\n3 / 1\nQuando este suporte entrar em cena, descarregue-o e coloque-o em seus recursos a não ser que você incapacite em {1} um personagem com {GE} que você controla.\nSe um personagem que você controla receber dano durante a Fase de Preparação do turno de outro jogador, redirecione aquele dano para este suporte.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_055",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_055.png",
+    "data": "Suporte\nMinério Clandestino - V1\n3 / 1\nQuando colocar este suporte em cena, descarregue-o e coloque-o em seus recursos a não ser que você incapacite em {1} um personagem vilão que você controla.\nDurante sua Fase de Preparação, uma vez por turno, você pode descarregar um card deste suporte. Se o fizer, coloque o card do topo do deck de um jogador nos recursos daquele jogador e então coloque mais um card do topo do deck daquele jogador nos recursos daquele jogador se você controlar um vilão.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_056",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_056.png",
+    "data": "Suporte\nZeus - V1\n5 / 2\nQuando este suporte entrar em cena, você pode procurar em seu deck por até dois cards de personagem com a afiliação Thunderbolts. Se o fizer, revele aqueles cards, coloque-os em sua mão e embaralhe o seu deck.\nLiderar {1} - afiliação Thunderbolts.\nAtrasar {1} - não ter a afiliação Thunderbolts.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_057",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_057.png",
+    "data": "Cenário\nBatalha Exaustiva - V1\nQuando este cenário entrar em cena, compre um card.\nOs personagens não podem ser capacitados mais de uma vez por turno.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_058",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_058.png",
+    "data": "Cenário\nDesfechos Paralelos - V1\nQuando este cenário entrar em cena, coloque os dois cards do topo de seu deck em seus recursos.\nQuando este cenário sair de cena, compre um card.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_059",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_059.png",
+    "data": "Cenário\nEm Meio à Multidão - V1\nQuando este cenário entrar em cena, se você controlar um personagem com a afiliação Fugitivos, você pode procurar em seu deck por um personagem sem a afiliação Fugitivos. Se o fizer, revele aquele card, coloque-o em sua mão e embaralhe o seu deck.\nEnquanto você controlar um número de personagens sem a afiliação Fugitivos maior ou igual ao número de personagens com a afiliação Fugitivos que você controla, os personagens com a afiliação Fugitivos que você controla não podem ser alvos de ações.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_060",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_060.png",
+    "data": "Cenário\nEntrando de Cabeça - V1\nQuando este cenário entrar em cena, você pode descarregar um personagem que você controla desde o início do turno e colocá-lo nos prêmios de seus oponentes. Se o fizer, olhe os cards da mão de um oponente, escolha um deles e coloque-o nos recursos de seu dono.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_061",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_061.png",
+    "data": "Cenário\nEstratégia de Guerrilha - V1\nQuando este cenário entrar em cena, coloque a carta do topo do seu deck nos seus recursos. Você pode devolver um card de habilidade dos seus recursos para sua mão.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_062",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_062.png",
+    "data": "Cenário\nEvocação das Trevas - V1\nDurante sua Fase de Preparação, se você controlar um personagem com {MA} cujo alter ego não seja Shuma-Gorath, você pode incapacitá-lo em {1} e descartar X cards de personagem cujos alter egos não sejam Shuma-Gorath. Se o fizer, procure em seu deck e/ou recursos por até X cards de personagens chamados Shuma-Gorath e/ou Tentáculos da Escuridão, revele-os, coloque-os em sua mão e embaralhe o seu deck se tiver procurado ali.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_063",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_063.png",
+    "data": "Cenário\nFôlego Renovado - V1\nQuando um personagem que você controla for incapacitado em {1} ou {2} por um efeito controlado por um oponente, você pode colocar este cenário nos recursos de seu dono. Se o fizer, compre um card e capacite aquele personagem em {1} ou {2}.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_064",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_064.png",
+    "data": "Cenário\nFrenesi de Batalha - V1\nQuando este cenário entrar em cena, compre um card.\nToda vez que uma ação de {LA} fosse causar dano em um ou mais alvos, ela causará aquela quantidade de dano +1 a cada um de seus alvos.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_065",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_065.png",
+    "data": "Cenário\nInvestida Tática - V1\nQuando este cenário entrar em cena, compre um card.\nA primeira ação de dano com alvos que cada jogador usar em um turno causa +1 ponto de dano a cada um dos seus alvos.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_066",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_066.png",
+    "data": "Cenário\nLei Anti-Mutante - V1\nQuando este cenário entrar em cena, compre um card.\nTodo o dano causado a personagens com a afiliação X-Men ou Irmandade de Mutantes é penetrante.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_067",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_067.png",
+    "data": "Cenário\nPassado Sombrio - V1\nQuando este cenário entrar em cena, escolha um personagem herói em cena.\nO personagem escolhido não pode usar ações.\nQuando o personagem escolhido for alvo de alguma ação ou receber dano, coloque este cenário nos recursos do seu dono.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_068",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_068.png",
+    "data": "Cenário\nPesquisa Solitária - V1\nQuando este cenário entrar em cena, você pode incapacitar um personagem que você controla em {X}. Se o fizer, compre X cards.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_069",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_069.png",
+    "data": "Cenário\nPlanos Expostos - V1\nQuando este cenário entrar em cena, olhe a mão de um oponente. Você pode escolher um card de habilidade dali e colocá-lo nos recursos de seu dono.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_070",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_070.png",
+    "data": "Cenário\nRuínas Suspeitas - V1\nQuando este cenário entrar em cena, compre um card.\nNo início da Fase de Contagem Regressiva do jogador que controlar menos personagens em cena, se aquele jogador controlar ao menos um personagem e nenhum outro jogador controlar o mesmo número de personagens que ele, aquele jogador pode colocar os dois cards do topo do próprio deck nos recursos.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_071",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_071.png",
+    "data": "Habilidade - {AG}\nAssalto Sincronizado - V1\nAção: Assalto Sincronizado\n{1} - Ação de Antecipar - {AG}\nAssalto Sincronizado causa X+1 pontos de dano no alvo. X é igual ao número de outras ações chamadas Assalto Sincronizado que foram usadas neste turno durante a Fase de Combate.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_072",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_072.png",
+    "data": "Habilidade - {AG}\nSurgir Das Sombras - V1\nAntecipação-Surpresa.\nAção: Surgir Das Sombras\n{1} - Ação de Antecipar - {AG}\nSe este card tiver sido carregado neste personagem neste turno, Surgir das Sombras causa 2 pontos de dano. Se não, Surgir das Sombras causa 1 ponto de dano no alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_073",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_073.png",
+    "data": "Habilidade - {AD}\nArma Com Silenciador - V1\nEnquanto o oponente controlar algum personagem que não tenha nenhum poder em comum com este personagem, a ação Arma com Silenciador não terá custo de incapacitação.\nAção: Arma Com Silenciador\n{2} - Ação Imprevista - {AD}\nArma com Silenciador causa 1 ponto de dano penetrante no personagem alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_074",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_074.png",
+    "data": "Habilidade - {AD}\nSaque Rápido - V1\nAntecipação-Surpresa.\nAção: Saque Rápido\n{0} - Ação de Antecipar - {AD}\nCarregue um card de seus recursos neste personagem. Coloque Saque Rápido na base do deck de seu dono: Saque Rápido causa 2 pontos de dano no alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_075",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_075.png",
+    "data": "Habilidade - {AE}\nEmissão Térmica - V1\nAção: Emissão Térmica\n{1} - Ação Normal - {AE}\nEmissão Térmica causa 1 ponto de dano penetrante em cada um de até dois alvos diferentes.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_076",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_076.png",
+    "data": "Habilidade - {EL}\nFechar o Cerco - V1\nEnquanto você controlar outro personagem com uma afiliação em comum com este personagem, a ação Fechar o Cerco é uma Ação de Antecipar.\nSe você controlar dois outros personagens com uma afiliação em comum com este personagem, a ação Fechar o Cerco causa +1 ponto de dano em seu alvo.\nAção: Fechar o Cerco\n{1} - Ação Imprevista - {EL}\nO alvo ganha Escudo -1 até o final do turno. Fechar o Cerco causa 1 ponto de dano no alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_077",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_077.png",
+    "data": "Habilidade - {GE}\nTalento em Negócios - V1\nSe este personagem tiver {GE}, o número máximo de cards em sua mão durante a Fase de Ajuste aumenta em dois cards.\nAção: Talento em Negócios\n{1} - Ação Normal - {GE}\nCompre dois cards.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_078",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_078.png",
+    "data": "Habilidade - {GE}\nTecnoassalto - V1\nAtaque-Surpresa.\nQuando este card for carregado de sua mão em um personagem com {GE} que você controla, você pode comprar dois cards.\nAção: Tecnoassalto\n{1} - Ação Normal - {GE}\nCarregue um card de seus recursos neste personagem. Devolva Tecnoassalto para a mão de seu dono: Você pode descarregar um suporte em cena e devolvê-lo para a mão de seu dono.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_079",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_079.png",
+    "data": "Habilidade - {LA}\nImplantes de Adamantium - V1\nItem Único.\nEste personagem ganha {LA}.\nNo início da sua Fase de Ajuste, se este personagem não tiver {RE}, descarregue um outro card dele.\nTodo o dano penetrante que este personagem receberia durante sua própria Fase de Combate torna-se 0.\nAção: Implantes de Adamantium\n{1} - Ação Normal - {LA}\nImplantes de Adamantium causa 1 ponto de dano penetrante no alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_080",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_080.png",
+    "data": "Habilidade - {LA}\nLâminas Coletadas - V1\nDurante a Etapa de Antecipação do turno de um oponente, se este card estiver nos seus recursos, você pode carregá-lo em um personagem que você controla. Se o fizer, descarregue outro card daquele personagem.\nAção: Lâminas Coletadas\n{1} - Ação de Antecipar - {LA}\nCarregue um card de seus recursos neste personagem. Coloque Lâminas Coletadas na base do deck de seu dono: Lâminas Coletadas causa 1 ponto de dano penetrante no alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_081",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_081.png",
+    "data": "Habilidade - {MA}\nEnsinamento Místico - V1\nAção: Ensinamento Místico\n{0} - Ação de Antecipar - {MA}\nClarividência 3 - Você pode carregar um card de habilidade de {MA} revelado nesta ação em um personagem que você controla. Se o fizer, ele não será colocado no topo de seu deck devido à Clarividência.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_082",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_082.png",
+    "data": "Habilidade - {MA}\nEnviar Para o Futuro - V1\nAção: Enviar Para o Futuro\n{1} - Ação de Antecipar - {MA}\nClarividência 2 - Coloque um card de sua mão no topo do seu deck. Você pode comprar um card após esta ação.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_083",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_083.png",
+    "data": "Habilidade - {MA}\nTríade Arcana - V1\nAção: Tríade Arcana\n{1} - Ação Normal - {MA}\nClarividência X+1 - Tríade Arcana causa X+1 pontos de dano no alvo. X é igual ao número de personagens que você controla e que estão carregando cards de habilidade chamados Tríade Arcana.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_084",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_084.png",
+    "data": "Habilidade - {PC}\nMaquinações no Eter - V1\nAção: Maquinações no Eter\n{1} - Ação Imprevista - {PC}\nEnergia Cósmica 2 - Maquinações no Éter causa 2 pontos de dano no alvo. Coloque os dois cards do topo de seu deck em seus recursos.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_085",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_085.png",
+    "data": "Habilidade - {PC}\nObliterar - V1\nAção: Obliterar\n{2} - Ação Normal - {PC}\nEnergia Cósmica 3 - Obliterar causa 9 pontos de dano no alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_086",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_086.png",
+    "data": "Habilidade - {PC}\nPrisão Extradimensional - V1\nAção: Prisão Extradimensional\n{1} - Ação Normal - {PC}\nEnergia Cósmica X+X - Descarregue o personagem alvo controlado por outro jogador com Energia Inicial igual a X ou menor e coloque-o em seus prêmios. No final do turno, coloque o card daquele personagem nos recursos de seu dono.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_087",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_087.png",
+    "data": "Habilidade - {PC}\nToque de Antimatéria - V1\nAção: Toque de Antimatéria\n{1} - Ação de Antecipar/Ação Imprevista - {PC}\nEnergia Cósmica 1 - Toque de Antimatéria causa 3 pontos de dano no alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_088",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_088.png",
+    "data": "Habilidade - {RE}\nMetabolismo Defensivo - V1\nEnquanto este card estiver em seus recursos, os personagens com {RE} que você controla podem usar a ação Metabolismo Defensivo.\nAção: Metabolismo Defensivo\n{1} - Ação de Antecipar - {RE}\nEscolha um card chamado Metabolismo Defensivo de seus recursos e carregue-o neste personagem. Toda vez que um personagem fosse causar dano neste personagem neste turno, ele causará aquela quantidade de dano -1.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_089",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_089.png",
+    "data": "Habilidade - {RE}\nMultiplicação de Dna - V1\nAntecipação-Surpresa.\nAção: Multiplicação de Dna\n{0} - Ação de Antecipar - {RE}\nCarregue um card de seus recursos neste personagem. Coloque Multiplicação de DNA na base do deck de seu dono: Você pode carregar até três cards de seus recursos neste personagem. Este personagem pode usar mais uma ação neste turno.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_090",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_090.png",
+    "data": "Habilidade - {SF}\nArmadura de Combate I.M.A. - V1\nEnquanto este personagem tiver a afiliação I.M.A. ou {GE}, ele ganha {SF} e Escudo +2.\nAção: Aríete Hidráulico\n{1} - Ação Normal - {SF}\nAríete Hidráulico causa 3 pontos de dano no alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_091",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_091.png",
+    "data": "Habilidade - {SF}\nAtropelamento - V1\nAtaque-Surpresa.\nAção: Atropelamento\n{2} - Ação Normal - {SF}\nAtropelamento causa 5 pontos de dano no alvo.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_092",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_092.png",
+    "data": "Habilidade - {TC}\nAceleração Atômica - V1\nAção: Aceleração Atômica\n{0} - Ação de Antecipar - {TC}\nTodos os jogadores colocam os três cards do topo de seus próprios decks em seus recursos.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_093",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_093.png",
+    "data": "Habilidade - {TC}\nMente Sobre Matéria - V1\nAção: Mente Sobre Matéria\n{1} - Ação Normal - {TC}\nDescarregue um card que estiver sendo carregado por um personagem. Se for um card de cenário, você pode colocar aquele cenário em cena.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_094",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_094.png",
+    "data": "Habilidade - {TC}\nTransformar em Cinzas - V1\nAtaque-Surpresa.\nAção: Transformar em Cinzas\n{2} - Ação Normal - {TC}\nDescarregue até três cards que estiverem sendo carregados por personagens ou suportes (você pode, por exemplo, descarregar um card de um personagem e dois cards de outro).",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_095",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_095.png",
+    "data": "Habilidade - {TE}\nIlusão Mental - V1\nAção: Ilusão Mental\n{2} - Ação de Antecipar - {TE}\nO oponente alvo descarta dois cards. Escolha o mesmo número de cards que foi descartado desta forma dos recursos daquele jogador. Aquele jogador coloca os cards escolhidos desta forma na própria mão.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_096",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_096.png",
+    "data": "Habilidade - {TE}\nReanimar - V1\nAção: Reanimar\n{0} - Ação de Antecipar - {TE}\nCapacite em {1} o personagem alvo que tenha uma afiliação em comum com este personagem (o personagem que usou esta ação).",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_097",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_097.png",
+    "data": "Habilidade - {VO}\nBatedor Alado - V1\nAção: Batedor Alado\n{1} - Ação Normal - {VO}\nCarregue um card de sua mão ou recursos neste personagem. Devolva Batedor Alado para a mão de seu dono: Este personagem pode usar mais uma ação neste turno.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_098",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_098.png",
+    "data": "Habilidade - {VO}\nOfensiva Aérea - V1\nAção: Ofensiva Aérea\n{1} - Ação Normal - {VO}\nOfensiva Aérea causa X+1 pontos de dano no alvo. X é igual ao número de cards de habilidade chamados Ofensiva Aérea que estiverem sendo carregados por personagens com {VO}.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_099",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_099.png",
+    "data": "Habilidade - N/A\nJoia do Infinito - Tempo - V1\nItem Único.\nOs outros personagens não podem usar ações nos turnos em que entraram em cena.\nAs ações imprevistas dos outros personagens não podem ser usadas durante as Fases de Preparação.",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "bsos_100",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/013_bsos/BSOS_100.png",
+    "data": "Habilidade - N/A\nPartículas Pym - V1\nEste personagem não pode usar ações que não sejam chamadas Partículas Pym.\nSe um oponente usar uma ação de Antecipar ou Imprevista com este personagem como alvo, você pode descarregar um card de habilidade chamado Partículas Pym deste personagem. Se o fizer, aquela ação não terá efeito e você pode carregar um card de seus recursos que não seja chamado Partículas Pym neste personagem.\nAção: Partículas Pym\n{1} - Ação Normal - N/A\nCarregue um card de seus recursos neste personagem. Descarregue Partículas Pym: Este personagem pode usar mais uma ação neste turno.\n\n",
+    "collection": "bsos"
+  },
+  {
+    "uuid": "illuminati_001",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/008_battle_box/BATTLE_BOX_012.png",
+    "data": "Personagem\nDr. Estranho - V2\nStephen Strange\nHerói\n3 / 1\n{AE},{GE},{MA},{TC}\nIlluminati\nTodo o dano que personagens com a afiliação Illuminati que você controla receberiam torna-se 0, exceto durante as Etapas de Ataque.\nAção: Evocação Espiritual\n{1} - Ação de Antecipar - {MA}\nClarividência 2 - Escolha uma opção, (A) Evocação Espiritual causa 1 ponto de dano penetrante no alvo; (B) você pode procurar em seu deck por um card de habilidade com Item Mágico ou de personagem com alter ego Stephen Strange. Se o fizer, revele aquele card, carregue-o neste personagem e embaralhe o seu deck.",
+    "collection": "illuminati"
+  },
+  {
+    "uuid": "illuminati_002",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/008_battle_box/BATTLE_BOX_013.png",
+    "data": "Personagem\nPantera Negra - V2\nT'Challa\nHerói\n4 / 2\n{AG},{GE},{LA}\nIlluminati\nQuando um personagem controlado por outro jogador usar uma ação tendo como alvo um personagem com a afiliação Illuminati, se este card estiver em sua mão, você pode colocá-lo em cena. Quando este personagem entrar em cena desta forma, ele causa 1 ponto de dano penetrante no personagem que usou aquela ação e ela não tem efeito.\nAção: Agilidade Felina\n{0} - Ação de Antecipar/Ação Imprevista - {AG}\nAgilidade Felina causa 2 pontos de dano no alvo. Você pode capacitar este personagem em {1}.",
+    "collection": "illuminati"
+  },
+  {
+    "uuid": "illuminati_003",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/008_battle_box/BATTLE_BOX_014.png",
+    "data": "Cenário\nDecisão Extrema - V1\nQuando este cenário entrar em cena, você pode descarregar um personagem que você controla e colocá-lo em seus recursos. Se o fizer e o personagem colocado nos recursos desta forma tiver a afiliação Illuminati, este cenário causa 4 pontos de dano em um personagem ou suporte. Se não, este cenário causa 2 pontos de dano em um personagem ou suporte.",
+    "collection": "illuminati"
+  },
+
+  {
+    "uuid": "bsgc_001",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_001.png",
+    "data": "Personagem - EV\nCicatriz Verde - V1\nBruce Banner\nN/A\n9 / 4 (+3)\n{LA},{RE},{SF}\nN/A\nEste personagem não pode ser alvo de ações de {TE}.\nQuando este personagem entrar em cena, os personagens perdem seus alinhamentos e afiliações até o final do turno.\nAção: O Quebra-Mundos\n{2} - Ação Normal - {SF}\nEscolha uma opção, (A) O Quebra-Mundos causa 7 pontos de dano no alvo; (B) O Quebra-Mundos causa 4 pontos de dano em cada um de até dois alvos diferentes.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_002",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_002.png",
+    "data": "Personagem\nAdaptoide - V1\nN/A\nVilão\n3 / 1\n{EL},{RE}\nI.M.A.\nPelotão.\nEnquanto você controlar outro personagem com a afiliação I.M.A., os cards de Personagem - EV de sua mão podem ser colocados em cena como se tivessem o requisito ´EV - Personagem chamado Adaptoide´.\nAção: Módulo Básico - Luta\n{0} - Ação de Antecipar/Ação Imprevista - N/A\nMódulo Básico - Luta causa 1 ponto de dano no alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_003",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_003.png",
+    "data": "Personagem\nAlex Wilder - V1\nAlex Wilder\nHerói\n1 / 0\n{GE}\nFugitivos\nToda vez que este personagem receber dano, se você controlar um personagem com a afiliação Fugitivos e alter ego que não seja Alex Wilder, o dano torna-se 0.\nDurante sua Fase de Preparação, uma vez por turno, escolha uma opção, (A) este personagem ganha ´Liderar {1} - afiliação Fugitivos´; (B) este personagem ganha ´Atrasar {1} - afiliação Fugitivos´.\nAção: Esperteza\n{1} - Ação de Antecipar/Ação Imprevista - {GE}\nEscolha dois personagens com a afiliação Fugitivos controlados por um mesmo jogador: Permute um dos cards que o primeiro personagem estiver carregando por um dos cards que o segundo personagem estiver carregando.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_004",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_004.png",
+    "data": "Personagem\nAlto Evolucionário - V1\nHerbert Edgar Wyndham\nN/A\n4 / 2\n{AE},{EL},{GE},{TC}\nN/A\nDurante sua Fase de Preparação, uma vez por turno, se você controlar este personagem desde o início do turno, você pode procurar em seu deck por um card de personagem. Se o fizer, revele aquele card, coloque-o em sua mão e embaralhe o seu deck.\nAção: Evolução Forçada\n{1} - Ação Imprevista - {TC}\nEscolha uma opção, (A) descarregue um card de um personagem controlado por outro jogador; (B) carregue um card de seus recursos em um personagem que você controla.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_005",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_005.png",
+    "data": "Personagem\nAsa Vermelha - V2\nAsa Vermelha\nN/A\n1 / 1\n{VO}\nAliados do Capitão América\nAprimoramento.\nEnquanto você controlar um personagem chamado Falcão, ações chamadas Investida Alada deste personagem são ações de antecipar.\nAção: Investida Alada\n{1} - Ação Imprevista - {VO}\nInvestida Alada causa 1 ponto de dano no alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_006",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_006.png",
+    "data": "Personagem\nCalypso - V1\nCalypso Ezili\nVilão\n3 / 1\n{MA},{TE}\nInimigos do Homem-Aranha\nAção: Magia Vodu\n{1} - Ação Normal - {MA}\nClarividência 2 - Magia Vodu causa X+2 pontos de dano no personagem alvo. X é igual ao número de cards de personagem que você revelar nesta ação.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_007",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_007.png",
+    "data": "Personagem\nCammi - V1\nCamille Benally\nHerói\n2 / 1\n{AD},{VO}\nGuardiões da Galáxia/S.H.I.E.L.D.\nDurante sua Fase de Preparação, uma vez por turno, você pode carregar um card de habilidade de {AD} de seus recursos neste personagem. Se o fizer, descarregue um card que não seja de habilidade de {AD} deste personagem.\nAção: Chuva de Bombas\n{1} - Ação Normal - {AD}\nDescarregue um card deste personagem: Chuva de Bombas causa 3 pontos de dano no alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_008",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_008.png",
+    "data": "Personagem\nCapitão América - V1\nJames Buchanan Barnes\nHerói\n4 / 1\n{AG},{AD},{LA}\nAliados do Capitão América\nAtrasar {1} - personagem controlado por um oponente.\nAção: Ataque Defensivo\n{1} - Ação de Antecipar/Ação Imprevista - N/A\nAtaque Defensivo causa 2 pontos de dano no alvo. Você pode procurar em sua mão, deck, recursos ou em cena entre os cards que você controla por um card de habilidade chamado Escudo do Capitão América. Se o fizer, revele aquele card, carregue-o neste personagem e embaralhe o seu deck se tiver procurado ali.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_009",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_009.png",
+    "data": "Personagem\nCapitão América - V4\nSteve Rogers\nHerói\n4 / 2\n{AG},{AD},{SF}\nIlluminati\nAprimoramento\nEnquanto você não controlar personagens com o alter ego Anthony Edward Stark, os personagens que você controla ganham a afiliação Aliados do Capitão América.\nToda vez que este personagem usar a ação Luta Pela Liberdade, você pode procurar em seu deck por um card de cenário chamado Oposição ao Registro ou Guerra Civil. Se o fizer, revele aquele card, coloque-o em cena e embaralhe o seu deck.\nAção: Luta Pela Liberdade\n{1} - Ação de Antecipar/Ação Imprevista - N/A\nLuta Pela Liberdade causa 1 ponto de dano no alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_010",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_010.png",
+    "data": "Personagem\nCientista Supremo - V1\nAndrew Forson\nVilão\n2 / 1\n{AD},{GE}\nI.M.A.\nDurante sua fase de Preparação, uma vez por turno, você pode colocar em cena um card de suporte com a afiliação I.M.A. ou H.I.D.R.A. como se ele tivesse Materializar.\nAção: Subornar Mercenários\n{2} - Ação de Antecipar - {GE}\nOlhe a mão do oponente alvo. Você pode escolher um card de personagem dali e colocá-lo nos recursos de seu dono se aquele personagem não tiver nenhuma afiliação em comum com as afiliações dos personagens que aquele jogador controla.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_011",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_011.png",
+    "data": "Personagem\nDeathlocket - V1\nRebecca Ryker\nHerói/Vilão\n3 / 1\n{AE},{RE}\nMestres do Terror/S.H.I.E.L.D.\nEnquanto este personagem estiver carregando algum card de suporte, ele ganha Escudo +1.\nAção: Braço-Canhão\n{1} - Ação Normal - {AE}\nSe este personagem estiver carregando algum card de suporte, Braço-Canhão causa 2 pontos de dano penetrante no alvo. Se não, Braço-Canhão causa 1 ponto de dano penetrante no alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_012",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_012.png",
+    "data": "Personagem\nDr. Estranho - V3\nStephen Strange\nHerói\n3 / 1\n{MA},{TC}\nDefensores\nAprimoramento.\nAção: Emissão Entrópica\n{1} - Ação Normal - {MA}\nClarividência 2 - Emissão Entrópica causa 2 pontos de dano no alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_013",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_013.png",
+    "data": "Personagem\nEnfermeira Noturna - V1\nLinda Carter\nN/A\n1 / 0\nN/A\nQuando um personagem controlado por outro jogador fosse causar dano a um personagem herói que você controla, se este card estiver em sua mão, você pode colocá-lo em cena. Quando este personagem entrar em cena desta forma, aquele dano torna-se 0.\nAção: Primeiros-Socorros\n{1} - Ação Normal - N/A\nCarregue um card de seus recursos em um personagem herói que você controla.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_014",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_014.png",
+    "data": "Personagem\nEscavador - V1\nRicky Calusky\nVilão\n4 / 2\n{SF}\nGangue da Demolição\nEnquanto você controlar dois ou mais personagens com a afiliação Gangue da Demolição, durante sua Fase de Preparação, uma vez por turno, você pode escolher um personagem com a afiliação Gangue da Demolição. Se o fizer, aquele personagem pode usar ações que não sejam de cards de habilidade no turno em que entrou em cena.\nAção: Golpe de Pá\n{1} - Ação Normal - {SF}\nGolpe de Pá causa 3 pontos de dano no alvo. A próxima ação que um personagem com a afiliação Gangue da Demolição usar neste turno causa +2 pontos de dano em um de seus alvos.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_015",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_015.png",
+    "data": "Personagem\nEson - V1\nEson\nN/A\n9 / 3\n{GE},{PC},{TC},{TE}\nCelestiais\nQuando este personagem entrar em cena, carregue nele os quatro cards do topo do seu deck (carregue todos os cards do topo de seu deck, se houver menos de quatro cards ali).\nAção: Busca Devastadora\n{1} - Ação Normal - {PC}\nEnergia Cósmica 1 - Coloque o card do topo de seu deck em seus recursos. Busca Devastadora causa 5 pontos de dano no alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_016",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_016.png",
+    "data": "Personagem\nEstatura - V1\nCassandra Lang\nHerói\n5 / 2\n{SF}\nJovens Vingadores\nToda vez que outro personagem com a afiliação Jovens Vingadores usar uma ação, você pode incapacitar este personagem em {1}.\nEste personagem não pode usar a ação Crescimento Repentino a não ser que ele esteja no estágio {0} de capacitação.\nAção: Crescimento Repentino\n{0} - Ação Normal - N/A\nCrescimento Repentino causa 5 pontos de dano no alvo. Capacite este personagem em {1} ou {2}.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_017",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_017.png",
+    "data": "Personagem\nFalcão - V2\nSamuel Thomas Wilson\nHerói\n3 / 1\n{VO}\nAliados do Capitão América\nAprimoramento.\nEnquanto você controlar um personagem chamado Asa Vermelha, ações chamadas Investida Alada deste personagem são ações de antecipar.\nAção: Investida Alada\n{1} - Ação Imprevista - {VO}\nInvestida Alada causa 1 ponto de dano no alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_018",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_018.png",
+    "data": "Personagem\nFantasma - V1\nJohn Morley\nHerói/Vilão\n3 / 1\n{GE}\nThunderbolts/I.M.A.\nEnquanto você controlar outro personagem com uma afiliação em comum com este personagem, toda vez que este personagem receber dano não penetrante de uma fonte, aquela fonte causa apenas 1 ponto de dano neste personagem.\nAção: Tecnologia Fantasma\n{1} - Ação de Antecipar/Ação Imprevista - {GE}\nEscolha uma opção, (A) Tecnologia Fantasma causa 1 ponto de dano no personagem alvo; (B) Tecnologia Fantasma causa 4 pontos de dano no suporte alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_019",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_019.png",
+    "data": "Personagem\nGraviton - V1\nFranklin Hall\nVilão\n5 / 3\n{GE},{TC},{VO}\nI.M.A.\nToda vez que um personagem fosse causar dano neste personagem, descarregue um card daquele personagem.\nAção: Investida de Destroços\n{1} - Ação de Antecipar - {TC}\nCarregue o alvo com um card dos recursos de seu dono. Se o fizer, Investida de Destroços causa 3 pontos de dano no alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_020",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_020.png",
+    "data": "Personagem\nHela - V1\nHela\nVilão\n6 / 3\n{AE},{MA},{SF},{TE}\nAsgardianos\nQuando um efeito controlado por um jogador fizer com que um personagem que aquele jogador controla saia de cena e seja colocado na mão, nos recursos ou em um deck, ao invés disso aquele personagem deve ser colocado nos prêmios dos oponentes daquele jogador.\nAção: Tormento Infernal\n{1} - Ação Normal - {MA}\nClarividência 3 - Descarregue todos os cards de personagens que estiverem sendo carregados por um personagem a sua escolha.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_021",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_021.png",
+    "data": "Personagem\nHiro-Kala - V1\nHiro-Kala\nN/A\n4 / 1\n{AG},{LA},{PC}\nN/A\nEste personagem ganha Escudo +1 para cada card de habilidade de {PC} que estiver carregando.\nAção: Poder Antigo\n{1} - Ação Imprevista - {PC}\nEnergia Cósmica 1 - Poder Antigo causa 2 pontos de dano no alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_022",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_022.png",
+    "data": "Personagem\nHomem de Ferro - V3\nAnthony Edward Stark\nHerói\n4 / 2\n{AD},{AE},{GE},{VO}\nIlluminati\nAprimoramento\nEnquanto você não controlar personagens com o alter ego Steve Rogers, os personagens que você controla ganham a afiliação Aliados do Homem de Ferro.\nToda vez que este personagem usar a ação Luta Pela Justiça, você pode procurar em seu deck por um card de cenário chamado Caça aos Renegados ou Guerra Civil. Se o fizer, revele aquele card, coloque-o em cena e embaralhe o seu deck.\nAção: Luta pela Justiça\n{1} - Ação de Antecipar/Ação Imprevista - N/A\nLuta pela Justiça causa 1 ponto de dano no alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_023",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_023.png",
+    "data": "Personagem\nHomem-Aranha - V4\nPeter Parker\nHerói\n4 / 2\n{EL},{SF},{VO}\nVingadores\nToda vez que este personagem sofrer dano de efeitos que não sejam ações, você pode escolher quais cards serão descarregados dele.\nAção: Aranha de Ferro\n{1} - Ação Imprevista - {EL}\nIncapacite o alvo em {1} ou o alvo ganha Escudo -2 até o final do turno. Este personagem pode usar esta ação outra vez neste turno. Se esta foi a segunda vez que este personagem usou esta ação neste turno, ela causa 2 pontos de dano no alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_024",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_024.png",
+    "data": "Personagem\nHomem-Bomba - V1\nN/A\nVilão\n2 / 1\n{AD},{GE}\nI.M.A.\nPelotão.\nQuando um oponente colocar um suporte em cena, se você controlar outro personagem com a afiliação I.M.A., você pode descarregar este personagem e colocá-lo nos prêmios de seus oponentes. Se o fizer, este personagem causa 6 pontos de dano naquele suporte.\nAção: Bomba Tóxica\n{1} - Ação Normal - {AD}\nBomba Tóxica causa 2 pontos de dano no alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_025",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_025.png",
+    "data": "Personagem\nHomem-Coisa - V1\nTheodore Sallis\nHerói/Vilão\n6 / 2\n{MA},{RE}\nThunderbolts\nToda vez que um oponente usar uma ação durante a própria Fase de Preparação, você pode carregar um card de habilidade de {RE} ou um card que não seja de habilidade de seus recursos neste personagem.\nAção: Queimar ao Toque\n{1} - Ação Normal - N/A\nQueimar ao Toque causa 1 ponto de dano penetrante no alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_026",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_026.png",
+    "data": "Personagem\nJessica Jones - V1\nJessica Campbell Jones\nHerói\n3 / 1\n{AG},{SF},{VO}\nDefensores/Heróis de Aluguel\nAção: Investigações Alias\n{1} - Ação Normal - N/A\nEscolha um card de personagem dos seus recursos: Coloque o card escolhido em sua mão.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_027",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_027.png",
+    "data": "Personagem\nJusticeiro - V1\nJake Gallows\nHerói\n3 / 2\n{AG},{AD},{AE}\nS.H.I.E.L.D.\nAção: Bala-Agulha\n{1} - Ação Imprevista - {AD}\nDescarregue um card do personagem alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_028",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_028.png",
+    "data": "Personagem\nMáquina de Combate - V2\nJames Rupert Rhodes\nHerói\n5 / 2\n{AD},{AE},{SF},{VO}\nAliados do Homem de Ferro\nEnquanto este personagem estiver carregando um ou mais cards de habilidade de {AD} e/ou {AE}, as ações de dano que ele usar causam +2 pontos de dano a cada um de seus alvos.\nAção: Impacto Térmico\n{1} - Ação Normal - {AE}\nImpacto Térmico causa 3 pontos de dano no alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_029",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_029.png",
+    "data": "Personagem\nMata-Capa - V1\nN/A\nHerói\n2 / 1\n{AD}\nS.H.I.E.L.D.\nEnquanto estiver em seu deck ou recursos, este card também conta como se fosse um card de personagem chamado Agente S.H.I.E.L.D.\nPelotão.\nAção: Caçada aos Proscritos\n{1} - Ação de Antecipar - {AD}\nEscolha uma opção, (A) Caçada aos Proscritos causa 2 pontos de dano no personagem alvo com a afiliação Aliados do Capitão América; (B) Caçada aos Proscritos causa 1 ponto de dano no alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_030",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_030.png",
+    "data": "Personagem\nMata-Capa - V2\nN/A\nHerói\n1 / 1\n{AE},{VO}\nS.H.I.E.L.D.\nEnquanto estiver em seu deck ou recursos, este card também conta como se fosse um card de personagem chamado Agente S.H.I.E.L.D.\nPelotão.\nAção: Imobilizar Foragido\n{1} - Ação Imprevista - {VO}\nEscolha uma opção, (A), Imobilizar Foragido causa 2 pontos de dano no personagem alvo com a afiliação Aliados do Capitão América; (B) Imobilizar Foragido causa 1 ponto de dano no alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_031",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_031.png",
+    "data": "Personagem\nMicróbio - V1\nZachary Smith Jr.\nHerói\n4 / 1\n{EL},{RE}\nNovos Guerreiros\nToda vez que este personagem usar uma ação, você pode carregar um card dos recursos de um jogador em um personagem ou suporte que aquele jogador controla. Se o fizer, descarregue um card daquele personagem ou suporte.\nAção: Infestação Bacteriana\n{1} - Ação Normal - {EL}\nEscolha uma opção, (A) Infestação Bacteriana causa 2 pontos de dano no alvo; (B) incapacite o alvo em {1}; (C) o alvo ganha Escudo -3 até o final do turno.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_032",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_032.png",
+    "data": "Personagem\nMotoqueiro Fantasma - V1\nKenshiro Cochrane\nHerói\n3 / 2\n{AE},{GE},{LA},{RE}\nN/A\nMaterializar.\nAção: Dados Corrompidos\n{1} - Ação de Antecipar - {GE}\nNomeie um card e escolha um oponente. Aquele jogador revela a própria mão. Dados Corrompidos causa 2 pontos de dano no alvo para cada card com o nome escolhido que houver na mão daquele jogador.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_033",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_033.png",
+    "data": "Personagem\nMulher-Hulk - V2\nJennifer Susan Walters\nHerói\n6 / 3\n{SF}\nS.H.I.E.L.D.\nAprimoramento\nToda vez que outro personagem que você controla com uma afiliação em comum com este personagem receber dano, redirecione aquele dano para este personagem.\nAção: Fúria Esmeralda\n{1} - Ação Normal - {SF}\nDescarregue um card que não seja de habilidade que este personagem estiver carregando: Fúria Esmeralda causa 5 pontos de dano no alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_034",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_034.png",
+    "data": "Personagem\nNeutralizador I.M.A. - V1\nN/A\nVilão\n1 / 0\n{AD},{GE}\nI.M.A.\nPelotão.\nDurante sua Fase de Preparação, uma vez por turno, se você controlar este personagem desde o início do turno, você pode escolher um poder de um personagem controlado por outro jogador. Se o fizer, aquele personagem perde o poder escolhido até o final do turno.\nAção: Armamento Leve\n{1} - Ação Normal - {AD}\nArmamento Leve causa 1 ponto de dano no alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_035",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_035.png",
+    "data": "Personagem\nNova - V2\nSam Alexander\nHerói\n4 / 1\n{PC},{VO}\nTropa Nova\nAntecipação-Surpresa.\nEnquanto você controlar ao menos dois outros personagens com a afiliação Tropa Nova, as ações de {PC} deste personagem são ações de antecipar.\nAção: Explosão Estelar\n{1} - Ação Normal - {PC}\nEnergia Cósmica 1 - Explosão Estelar causa 3 pontos de dano no personagem alvo. Você pode carregar um card de habilidade de {PC} de seus recursos neste personagem.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_036",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_036.png",
+    "data": "Personagem\nOssos Cruzados - V2\nBrock Rumlow\nVilão\n3 / 1\n{AG},{AD}\nH.I.D.R.A.\nAprimoramento.\nAção: À Queima-Roupa\n{0} - Ação Normal - {AD}\nÀ Queima-Roupa causa 1 ponto de dano no alvo. Este personagem pode usar mais uma ação chamada Chuva de Balas neste turno.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_037",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_037.png",
+    "data": "Personagem\nPoderoso - V1\nVictor Alvarez\nHerói\n4 / 1\n{SF}\nHeróis de Aluguel/Vingadores\nDurante sua Fase de Preparação, uma vez por turno, você pode carregar um card de habilidade de {SF} de seus recursos neste personagem. Se o fizer, descarregue um card deste personagem.\nAção: Absorver Chi\n{1} - Ação Normal - {SF}\nAbsorver Chi causa X+1 pontos de dano no alvo. X é igual ao número de cards de habilidade de {SF} que este personagem estiver carregando.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_038",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_038.png",
+    "data": "Personagem\nProdígio - V1\nDavid Alleyne\nHerói\n3 / 1\n{GE}\nJovens Vingadores\nTodo o dano que seria causado a personagens com a afiliação Jovens Vingadores que você controla durante a Fase de Preparação dos turnos de outros jogadores torna-se 0.\nAção: Replicar Conhecimento\n{1} - Ação de Antecipar - {GE}\nCompre dois cards. Descarte um card.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_039",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_039.png",
+    "data": "Personagem\nProdígio - V1\nRitchie Gilmore\nHerói\n5 / 2\n{SF},{VO}\nNovos Guerreiros\nAção: Ato de Revolta\n{1} - Ação de Antecipar - {SF}\nEscolha uma opção, (A) Ato de Revolta causa 3 pontos de dano no personagem alvo com a afiliação Aliados do Homem de Ferro; (B) Ato de Revolta causa 1 ponto de dano no alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_040",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_040.png",
+    "data": "Personagem\nRei do Crime - V2\nWilson Fisk\nVilão\n4 / 1\n{AD},{GE}\nH.I.D.R.A./Tentáculo\nQuando este personagem entrar em cena, você pode procurar em seu deck por um card de suporte chamado Esconderijo Secreto. Se o fizer, revele aquele card, coloque-o em sua mão e embaralhe o seu deck.\nOs personagens chamados Capanga do Rei que você controla podem usar a ação Incursão Suicida.\nAção: Incursão Suicida\n{1} - Ação de Antecipar - {AD}\nDescarregue um card deste personagem (o personagem que usou esta ação): Incursão Suicida causa 1 ponto de dano penetrante no personagem alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_041",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_041.png",
+    "data": "Personagem\nSenhor Medo - V1\nLawrence Cranston\nVilão\n3 / 1\n{AG},{TE}\nInimigos do Demolidor\nQuando este personagem entrar em cena, escolha um personagem controlado por outro jogador. Este personagem não pode ser alvo de ações do personagem escolhido.\nAção: Spray de Feromônios\n{1} - Ação Normal - {TE}\nO personagem alvo controlado por outro jogador ganha Escudo -2 até o final do turno. Este personagem pode usar mais uma ação neste turno, desde que o alvo seja o mesmo de Spray de Feromônios.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_042",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_042.png",
+    "data": "Personagem\nSentinela - V1\nRobert Reynolds\nHerói\n8 / 5\n{AE},{PC},{SF},{VO}\nVingadores\nEnquanto um oponente tiver mais pontos que você nos prêmios, este personagem pode usar a ação Poder de Mil Sóis no turno em que ele entrar em cena.\nEnquanto um oponente controlar menos personagens que você, este personagem ganha Escudo -4.\nAção: Poder de Mil Sóis\n{1} - Ação Normal - {SF}\nSe um oponente controlar mais personagens que você, Poder de Mil Sóis causa 6 pontos de dano no alvo. Se não, Poder de Mil Sóis causa 4 pontos de dano no alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_043",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_043.png",
+    "data": "Personagem\nShuma-Gorath - V2\nShuma-Gorath\nVilão\n6 / 2\n{EL},{MA},{TC}\nN/A\nAprimoramento.\nPelotão.\nAção: Aura Medonha\n{1} - Ação Normal - {MA}\nClarividência 3 - Aura Medonha causa X+2 pontos de dano no alvo. X é igual ao número de personagens com o alter ego Shuma-Gorath em cena.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_044",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_044.png",
+    "data": "Personagem\nSuplício - V1\nRobert Baldwin\nHerói\n4 / 2\n{AE},{LA}\nThunderbolts\nAprimoramento.\nDurante sua Fase de Preparação, uma vez por turno, você pode fazer com que este personagem cause 1 ponto de dano nele mesmo.\nAção: Justiça Agonizante\n{1} - Ação Normal - {AE}\nJustiça Agonizante causa 2 pontos de dano no alvo. Este personagem pode usar mais uma ação neste turno.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_045",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_045.png",
+    "data": "Personagem\nThor - V3\nThor Odinson\nHerói\n5 / 3\n{SF}\nAsgardianos\nDurante sua Fase de Preparação, uma vez por turno, você pode procurar em seu deck ou recursos por um card de habilidade chamado Mjölnir ou por um card de personagem com o alter ego Thor Odinson. Se o fizer, revele aquele card, carregue-o neste personagem, descarregue um card deste personagem e embaralhe o seu deck se tiver procurado ali.\nAção: Raios e Relâmpagos\n{1} - Ação de Antecipar - {AE}\nRaios e Relâmpagos causa 3 pontos de dano no personagem alvo. Você pode procurar em seu deck por um card de cenário chamado Invocar o Relâmpago. Se o fizer, revele aquele card, coloque-o em cena e embaralhe o seu deck.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_046",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_046.png",
+    "data": "Personagem\nVigia - V1\nUatu\nN/A\n6 / 3\n{GE},{PC},{TE}\nVigias\nOs oponentes jogam com os cards de suas mãos revelados.\nAção: Observar\n{1} - Ação Normal - {GE}\nO jogador alvo compra 3 cards.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_047",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_047.png",
+    "data": "Personagem\nZzzax - V1\nZzzax\nVilão\n2 / 1\n{AE},{RE},{VO}\nN/A\nQuando um oponente colocar um suporte em cena, você pode revelar este card de sua mão, colocá-lo nos prêmios de seus oponentes e escolher uma afiliação. Se o fizer, este card causa X pontos de dano penetrante àquele suporte. X é igual ao número de personagens e suportes com a afiliação escolhida que você controla.\nAção: Eletrocutar\n{1} - Ação de Antecipar - {AE}\nEletrocutar causa 1 ponto de dano penetrante no alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_048",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_048.png",
+    "data": "Suporte\nAeroporta-Aviões Alfa - V1\n5 / 2\nDurante sua Fase de Preparação, uma vez por turno, você pode descarregar um card deste suporte. Se o fizer, procure em seu deck por um card de suporte chamado Veículo de Combate S.H.I.E.L.D., revele-o, coloque-o em sua mão e embaralhe o seu deck.\nDurante sua fase de Preparação, uma vez por turno, você pode colocar em cena um card de personagem ou suporte com a afiliação S.H.I.E.L.D. como se ele tivesse Materializar.\nOs personagens com a afiliação S.H.I.E.L.D. que você controla ganham {VO}.\nOutros suportes com a afiliação S.H.I.E.L.D. que você controla ganham Escudo +1.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_049",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_049.png",
+    "data": "Suporte\nCampo Absorvente - V1\n3 / 2\nQuando este suporte entrar em cena, descarregue-o e coloque-o em seus recursos a não ser que você incapacite em {1} um personagem com {GE} que você controla.\nToda vez que um personagem ou suporte que você controla fosse receber dano de uma fonte que entrou em cena neste turno ou de um card que foi carregado em um personagem ou suporte neste turno, redirecione aquele dano para este suporte.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_050",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_050.png",
+    "data": "Suporte\nGerador de P.E.M. - V1\n2 / 2\nQuando este suporte entrar em cena, nomeie um card de suporte.\nOs textos permanentes de suportes com o nome escolhido não tem efeito.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_051",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_051.png",
+    "data": "Suporte\nPrisão 42 - V1\n4 / 4\nQuando este suporte entrar em cena, escolha um personagem sem a afiliação Aliados do Homem de Ferro controlado por um oponente.\nO personagem escolhido pode usar a ação Sabotagem Interna e não pode usar ações que não se chamem Sabotagem Interna.\nOs textos permanentes do personagem escolhido não têm efeito (isso inclui os textos dos cards que ele estiver carregando) e ele não pode ser alvo de ações de outros personagens.\nAção: Sabotagem Interna\n{1} - Ação Normal - N/A\nDescarregue um card de um suporte chamado Prisão 42.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_052",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_052.png",
+    "data": "Suporte\nVeículo de Combate S.H.I.E.L.D. - V3\n3 / 1\nQuando este suporte entrar em cena, escolha um personagem com a afiliação S.H.I.E.L.D. que você controla.\nO personagem escolhido tem {VO} e pode usar a ação Artilharia Aérea.\nToda vez que o personagem escolhido receber dano, redirecione aquele dano para este suporte.\nFrota.\nAção: Artilharia Aérea\n{1} - Ação de Antecipar/Ação Imprevista - {VO}\nArtilharia Aérea causa 2 pontos de dano no alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_053",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_053.png",
+    "data": "Cenário\nArtefato Falso - V1\nQuando este cenário entrar em cena, se um personagem ou suporte controlado por outro jogador estiver carregando algum card de habilidade de Item Único, você pode escolher um daqueles cards e colocá-lo na base do deck de seu controlador. Se não o fizer, compre um card.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_054",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_054.png",
+    "data": "Cenário\nBatedor Avançado - V1\nQuando este cenário entrar em cena, se um de seus oponentes não controlar nenhum personagem, você pode incapacitar em {1} um personagem que você controla desde o início do turno. Se o fizer, olhe os cards da mão daquele jogador, escolha um deles e aquele jogador descarta o card escolhido.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_055",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_055.png",
+    "data": "Cenário\nBater em Retirada - V1\nQuando este cenário entrar em cena, descarregue um personagem ou suporte que você controla desde o início do turno e devolva-o para sua mão.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_056",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_056.png",
+    "data": "Cenário\nCaça aos Renegados - V1\nQuando este cenário entrar em cena, escolha uma opção, (A) ele causa 2 pontos de dano em um personagem sem a afiliação Aliados do Homem de Ferro; (B) você pode procurar em seu deck ou recursos por um card de personagem chamado Homem de Ferro com alter ego Anthony Edward Stark. Se o fizer, revele aquele card, coloque-o em sua mão e embaralhe o seu deck se tiver procurado ali.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_057",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_057.png",
+    "data": "Cenário\nCâmeras de Vigilância - V1\nEnquanto este cenário estiver em cena ou em seus recursos, toda vez que uma ação for usada por um personagem no turno em que aquele personagem entrou em cena, você pode colocar este cenário na base do deck de seu dono. Se o fizer, coloque aquele personagem no estágio {2} e aquela ação não tem efeito.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_058",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_058.png",
+    "data": "Cenário\nDa Prática à Perfeição - V1\nQuando este cenário entrar em cena, compre um card.\nTodos os personagens sem a característica Aprimoramento ganham ´Aprimoramento.´",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_059",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_059.png",
+    "data": "Cenário\nDescobertas Infindáveis - V1\nQuando um personagem com {GE} entrar em cena sob seu controle, você pode incapacitar aquele personagem em {1} e colocar este cenário em seus recursos. Se o fizer, compre três cards.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_060",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_060.png",
+    "data": "Cenário\nEntrincheirados - V1\nQuando este cenário entrar em cena, compre um card.\nTodo o dano que seria causado em personagens durante a Fase de Preparação torna-se 0.\nSe este cenário sair de cena durante a Fase de Preparação, todo o dano que seria causado em personagens até o final daquela Fase de Preparação torna-se 0.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_061",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_061.png",
+    "data": "Cenário\nExperiência Acumulada - V1\nToda vez que você colocar um personagem em cena durante sua Fase de Preparação, você pode procurar em seu deck por um card com o mesmo alter ego (ou nome, se não houver alter ego) daquele personagem. Se o fizer, revele aquele card, carregue-o naquele personagem e embaralhe o seu deck.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_062",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_062.png",
+    "data": "Cenário\nGuerra Civil - V2\nQuando este cenário entrar em cena, compre um card.\nToda vez que um personagem fosse causar dano em um personagem com a afiliação Aliados do Homem de Ferro ou Aliados do Capitão América, ele causará aquela quantidade de dano +1.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_063",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_063.png",
+    "data": "Cenário\nInformações Privilegiadas - V1\nQuando este cenário entrar em cena, compre dois cards e coloque um card de sua mão na base de seu deck.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_064",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_064.png",
+    "data": "Cenário\nOnda de Boatos - V1\nQuando este cenário entrar em cena, compre um card.\nTodos os personagens ganham as afiliações Aliados do Capitão América e Aliados do Homem de Ferro.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_065",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_065.png",
+    "data": "Cenário\nOposição ao Registro - V1\nQuando este cenário entrar em cena, escolha uma opção, (A) ele causa 2 pontos de dano em um personagem sem a afiliação Aliados do Capitão América; (B) você pode procurar em seu deck ou recursos por um card de personagem chamado Capitão América com alter ego Steve Rogers. Se o fizer, revele aquele card, coloque-o em sua mão e embaralhe o seu deck se tiver procurado ali.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_066",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_066.png",
+    "data": "Cenário\nQuebrar com Tudo - V1\nQuando um personagem com {SF} entrar em cena sob seu controle, você pode incapacitar aquele personagem em {1} e colocar este cenário em seus recursos. Se o fizer, aquele personagem causa 4 pontos de dano em um suporte ou em um personagem que não tenha {SF}.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_067",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_067.png",
+    "data": "Cenário\nRevista Minuciosa - V1\nQuando este cenário entrar em cena, compre um card. Cada jogador deve colocar um card do topo do próprio deck nos recursos.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_068",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_068.png",
+    "data": "Cenário\nTitã Descontrolado - V1\nDurante sua fase de Preparação, você pode colocar em cena um card de personagem com Energia Inicial 7 ou maior como se ele tivesse Materializar. Se o fizer, coloque este cenário em seus recursos.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_069",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_069.png",
+    "data": "Cenário\nUnião Inabalável - V1\nQuando um personagem fosse receber dano que não seja de uma ação, se este card estiver em sua mão, você pode colocá-lo em cena (este cenário pode ser colocado em cena desta forma mesmo que outro cenário já tenha sido colocado em cena neste turno).\nQuando este cenário entrar em cena, compre um card e escolha uma afiliação. Até o final do turno, todo o dano que não seja de ações que for causado a personagens com a afiliação escolhida torna-se 0.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_070",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_070.png",
+    "data": "Habilidade - {AG}\nBloqueio Ofensivo - V1\nSe este personagem tiver {AG}, toda vez que ele for alvo de uma ação, você pode incapacitá-lo em {2}. Se o fizer, ele causa 3 pontos de dano no personagem que usou aquela ação.\nAção: Bloqueio Ofensivo\n{0} - Ação Normal - {AG}\nBloqueio Ofensivo causa 1 ponto de dano no alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_071",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_071.png",
+    "data": "Habilidade - {AG}\nMão de Lança - V1\nAção: Mão de Lança\n{1} - Ação Imprevista - {AG}\nMão de Lança causa 1 ponto de dano no personagem alvo. Toda vez que aquele personagem usar uma ação neste turno, Mão de Lança causa 1 ponto de dano a ele.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_072",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_072.png",
+    "data": "Habilidade - {AD}\nTiro Incapacitante - V1\nAção: Tiro Incapacitante\n{1} - Ação de Antecipar - {AD}\nTiro Incapacitante causa 2 pontos de dano no personagem alvo. Nomeie uma ação. Aquele personagem não pode usar ações com o nome escolhido até o final do turno.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_073",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_073.png",
+    "data": "Habilidade - {AE}\nEnergias Ocultas - V1\nAção: Energias Ocultas\n{1} - Ação Normal - {AE}\nEnergias Ocultas causa X pontos de dano no alvo. X é igual ao número de poderes que este personagem possui (ex.: se, no momento da aplicação do dano, o personagem que usou esta ação tiver os poderes {AE}, {SF} e {VO}, esta ação causará 3 pontos de dano no alvo).",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_074",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_074.png",
+    "data": "Habilidade - {AE}\nRajadas e Disparos - V1\nAntecipação-Surpresa.\nAção: Rajadas e Disparos\n{1} - Ação de Antecipar - {AE}\nRajadas e Disparos causa 2 pontos de dano no alvo. As ações chamadas Rajada e Disparo Sequencial dos personagens que você controla tornam-se ações de antecipar até o final do turno.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_075",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_075.png",
+    "data": "Habilidade - {AE}\nReação Explosiva - V1\nAção: Reação Explosiva\n{1} - Ação Normal - {AE}\nColoque um card de habilidade de {AE} de seus recursos na base de seu deck: Reação Explosiva causa 4 pontos de dano no alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_076",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_076.png",
+    "data": "Habilidade - {EL}\nAmarras Invisíveis - V1\nAntecipação-Surpresa.\nQuando este card for carregado de sua mão em um personagem com {EL} que você controla, você pode incapacitar um personagem em {1} ou {2}.\nAção: Amarras Invisíveis\n{1} - Ação de Antecipar - {EL}\nO personagem alvo ganha Escudo -1 até o final do turno. Se aquele personagem estiver no estágio de capacitação {0}, Amarras Invisíveis causa 2 pontos de dano a ele.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_077",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_077.png",
+    "data": "Habilidade - {EL}\nTática Ardilosa - V1\nQuando este card for carregado em um personagem com {EL} que você controla, você pode procurar em seu deck por um card de habilidade chamado Ardil Emaranhado. Se o fizer, revele aquele card, coloque-o em sua mão e embaralhe o seu deck.\nAção: Tática Ardilosa\n{1} - Ação Imprevista - {EL}\nIncapacite o personagem alvo em {1}. As ações chamadas Ardil Emaranhado de personagens com {EL} que você controla podem ser usadas sem pagar seus custos de incapacitação até o final do turno.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_078",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_078.png",
+    "data": "Habilidade - {GE}\nExperimentos Sabotados - V1\nEnquanto este personagem tiver {GE}, toda vez que o efeito de uma ação de {GE} de um personagem que você controla fizer com que você compre um ou mais cards durante a Fase de Combate, Experimentos Sabotados causa 1 ponto de dano em um personagem ou suporte.\nAção: Experimentos Sabotados\n{1} - Ação Normal - {GE}\nCompre dois cards. Experimentos Sabotados causa 1 ponto de dano no alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_079",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_079.png",
+    "data": "Habilidade - {GE}\nPeças em Armas - V1\nAção: Peças em Armas\n{1} - Ação Normal - {GE}\nDescarregue um card de um suporte que você controla: Peças em Armas causa 4 pontos de dano no alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_080",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_080.png",
+    "data": "Habilidade - {GE}\nRoubo de Tecnologia - V1\nAção: Roubo de Tecnologia\n{1} - Ação Imprevista - {GE}\nDescarregue um card de um suporte: Procure em seu deck por um card de suporte, revele-o, coloque-o em sua mão e embaralhe o seu deck.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_081",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_081.png",
+    "data": "Habilidade - {LA}\nCarga Furiosa - V1\nAção: Carga Furiosa\n{1} - Ação Normal - {LA}\nCarga Furiosa causa 3-X pontos de dano penetrante no alvo. X é igual ao estágio de capacitação atual do alvo (os estágios de capacitação são {0}, {1} e {2} - se o alvo for um suporte, o estágio de capacitação será considerado como sendo {0}).",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_082",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_082.png",
+    "data": "Habilidade - {LA}\nInvasores Sangrentos - V1\nAção: Invasores Sangrentos\n{1} - Ação de Antecipar - {LA}\nInvasores Sangrentos causa 1 ponto de dano penetrante no alvo. Você pode permutar este card por um card que outro personagem que você controla estiver carregando se aquele personagem tiver uma afiliação em comum com este personagem.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_083",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_083.png",
+    "data": "Habilidade - {MA}\nEspiral Arcana - V1\nAção: Espiral Arcana\n{1} - Ação de Antecipar - {MA}\nClarividência 2 - Espiral Arcana causa 1 ponto de dano no alvo para cada tipo de card revelado nesta ação (os tipos de cards são personagem, suporte, cenário e habilidade).",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_084",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_084.png",
+    "data": "Habilidade - {MA}\nNecromancia - V1\nAntecipação-Surpresa.\nAção: Necromancia\n{1} - Ação de Antecipar - {MA}\nClarividência 3 - Você pode colocar um card de personagem revelado na Clarividência desta ação nos seus recursos. Se o fizer, aquele card não será colocado no topo de seu deck devido à Clarividência e você pode colocar um outro card de personagem de seus recursos em sua mão.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_085",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_085.png",
+    "data": "Habilidade - {PC}\nAspirador de Partículas - V1\nAção: Aspirador de Partículas\n{1} - Ação Normal - {PC}\nEnergia Cósmica 1 - Escolha uma opção, (A) aspirador de Partículas causa 3 pontos de dano no alvo; (B) escolha um card dos recursos de um jogador e coloque-o na base do deck daquele jogador.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_086",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_086.png",
+    "data": "Habilidade - {PC}\nChuva de Meteoros - V1\nAção: Chuva de Meteoros\n{X} - Ação Normal - {PC}\nEnergia Cósmica X - Chuva de Meteoros causa X+1 pontos de dano em cada um de até X+1 alvos diferentes.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_087",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_087.png",
+    "data": "Habilidade - {PC}\nExplorar Recursos - V1\nAção: Explorar Recursos\n{1} - Ação Normal - {PC}\nEnergia Cósmica 1 - Carregue um card de seus recursos neste personagem. Descarregue Explorar Recursos: Coloque X+X cards do topo de seu deck em seus recursos. X é igual ao número de outros personagens que você controla com afiliações em comum com este personagem.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_088",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_088.png",
+    "data": "Habilidade - {PC}\nFragmento de Asteroide - V1\nQuando este card for colocado de seus recursos na base de seu deck para pagar o custo de Energia Cósmica de uma ação, coloque os dois cards do topo de seu deck em seus recursos.\nAção: Fragmento de Asteroide\n{1} - Ação Normal - {PC}\nEnergia Cósmica 1 - Carregue um card de seus recursos neste personagem. Descarregue Fragmento de Asteroide: Fragmento de Asteroide causa 3 pontos de dano no alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_089",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_089.png",
+    "data": "Habilidade - {RE}\nImunoeficiência - V1\nDurante sua Fase de Preparação, se este card estiver em seus recursos, você pode carregá-lo em um personagem com {RE} que você controla.\nAção: Imunoeficiência\n{1} - Ação de Antecipar - {RE}\nDescarregue Imunoeficiência: Carregue até dois cards de seus recursos neste personagem.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_090",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_090.png",
+    "data": "Habilidade - {RE}\nSaúde de Ferro - V1\nAtaque-Surpresa.\nQuando este card for carregado de sua mão em um personagem com {RE} que você controla, você pode carregar até dois cards dos seus recursos naquele personagem.\nAção: Saúde de Ferro\n{1} - Ação Normal - {RE}\nCarregue um card de seus recursos neste personagem. Devolva Saúde de Ferro para a mão de seu dono: Capacite este personagem em {1} ou {2}.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_091",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_091.png",
+    "data": "Habilidade - {SF}\nCólera Solitária - V1\nEnquanto você não controlar personagens com {AE}, este personagem ganha Prontidão - ação Cólera Solitária (a ação indicada pode ser usada por este personagem no turno em que ele entrou em cena).\nAção: Cólera Solitária\n{1} - Ação Normal - {SF}\nSe você não controlar personagens com {AE}, Cólera Solitária causa 4 pontos de dano no alvo. Se não, Cólera Solitária causa 3 pontos de dano no alvo.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_092",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_092.png",
+    "data": "Habilidade - {SF}\nEscavar - V1\nDurante sua Fase de Preparação, se este card estiver em seus recursos e seu oponente não controlar nenhum personagem, você pode carregá-lo em um personagem com {SF} que você controla. Se o fizer, descarregue um card daquele personagem.\nAção: Escavar\n{1} - Ação Normal - {SF}\nEscavar causa 2 pontos de dano no alvo e/ou coloque os X cards do topo de seu deck em seus recursos. X é igual à Energia Inicial deste personagem.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_093",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_093.png",
+    "data": "Habilidade - {TC}\nFantasmagoria - V1\nAção: Fantasmagoria\n{1} - Ação Imprevista - {TC}\nColoque até X cards do topo do deck do jogador alvo nos recursos daquele jogador. X é igual ao número de outros personagens que você controla com alguma afiliação em comum com as afiliações deste personagem.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_094",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_094.png",
+    "data": "Habilidade - {TC}\nFenômeno Paranormal - V1\nAção: Fenômeno Paranormal\n{1} - Ação Normal - {TC}\nColoque os dois cards do topo do deck de um jogador nos recursos daquele jogador. Descarregue um card de um personagem ou suporte.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_095",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_095.png",
+    "data": "Habilidade - {TC}\nManifesto da Mente - V1\nAção: Manifesto da Mente\n{1} - Ação de Antecipar/Ação Imprevista - {TC}\nAção Única (este personagem não pode usar mais de uma ação chamada Manifesto da Mente por turno) - Coloque em cena um card de cenário de sua mão (o cenário pode ser colocado em cena desta forma mesmo que outro cenário já tenha sido colocado em cena neste turno).",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_096",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_096.png",
+    "data": "Habilidade - {TE}\nHipnotizar - V1\nAtaque-Surpresa.\nAção: Hipnotizar\n{1} - Ação Normal - {TE}\nEscolha um card que estiver sendo carregado por um personagem controlado por outro jogador e coloque-o na base do deck de seu dono. Carregue naquele personagem um card dos recursos de seu controlador (você só deve carregar o card se houver cards nos recursos daquele jogador).",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_097",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_097.png",
+    "data": "Habilidade - {TE}\nSeduzir - V1\nAntecipação-Surpresa.\nQuando este card for carregado de sua mão em um personagem com {TE} que você controla, você pode capacitar um personagem em {1} ou {2}.\nAção: Seduzir\n{2} - Ação de Antecipar - {TE}\nCarregue um card neste personagem. Coloque Seduzir na base do deck de seu dono: O personagem alvo não pode usar ações neste turno.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_098",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_098.png",
+    "data": "Habilidade - {VO}\nInvestida Estratégica - V1\nAção: Investida Estratégica\n{1} - Ação Normal - {VO}\nInvestida Estratégica causa 2 pontos de dano no alvo. Você pode carregar um card dos seus recursos em outro personagem que você controla com uma afiliação em comum com este personagem (o personagem que usou esta ação). Se o fizer, descarregue um card daquele personagem.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_099",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_099.png",
+    "data": "Habilidade - {VO}\nPegar ou Largar - V1\nAção: Pegar ou Largar\n{1} - Ação Normal - {VO}\nCompre dois cards. Descarte dois cards.",
+    "collection": "bsgc"
+  },
+  {
+    "uuid": "bsgc_100",
+    "image": "https://images.weserv.nl/?url=http://www.magicjebb.com.br/bs_images/015_bsgc/BSGC_100.png",
+    "data": "Habilidade - N/A\nImpulso Impulsivo - V1\nAção: Impulso Impulsivo\n{1} - Ação Normal - N/A\nImpulso Impulsivo causa 2 pontos de dano no alvo. Você pode descartar um card. Se o fizer, este personagem pode usar esta ação outra vez neste turno (para usar novamente a ação, você deve pagar novamente todos os seus custos).\n\n",
+    "collection": "bsgc"
   }
 ]
